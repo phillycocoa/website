@@ -1,0 +1,42 @@
+header {
+  padding: 1em 2em;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+}
+
+#logo-branding {
+  flex-grow: 1;
+}
+
+#main-navigation {
+  flex-grow: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+header ol {
+  margin: 0;
+  padding: 0 0 0.25em 0;
+  list-style: none;
+  display: inline;
+}
+
+header ol li {
+  display: inline;
+}
+
+#navigation-banner {
+  background-color: #00568e;
+  color: #f8f8f8;
+}
+#mission-banner {
+  background-color: blue;
+}
+#content-banner {
+  background-color: white;
+}
+#footer-banner {
+  background-color: grey;
+}
