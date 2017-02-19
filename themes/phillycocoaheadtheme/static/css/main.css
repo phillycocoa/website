@@ -32,11 +32,42 @@ header ol li {
   color: #f8f8f8;
 }
 #mission-banner {
-  background-color: blue;
+  background-image: url(/images/header.jpg);
+  background-size: cover;
+  background-position: center;
+  background-color: #00568e;
+  color: white;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
+#mission-banner section {
+  padding: 1em 2em;
+  max-width: 700px;
+  margin: 0 auto;
+
+}
+
 #content-banner {
-  background-color: white;
+  padding: 1em 2em;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
 }
+
+#event-details {
+  display: inline;
+  flex-grow:1;
+}
+
+#aside {
+  display: inline;
+  flex-shrink: 0;
+  width: 300px;
+}
+
 #footer-banner {
   background-color: grey;
 }

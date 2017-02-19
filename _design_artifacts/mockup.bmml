@@ -1,0 +1,207 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="3251" measuredH="1325" mockupW="3113" mockupH="1291">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="138" y="115" w="1537" h="1210" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Philly%20CocoaHeads%0Ahttp%3A//phillycocoa.org</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="268" y="188" w="1276" h="1110" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>14540253</borderColor>
+        <borderStyle>roundedDotted</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="140" y="274" w="1531" h="426" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>10470904</color>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="__group__" x="740" y="234" w="333" h="90" measuredW="333" measuredH="90" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="333" h="90" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="68" y="32" w="-1" h="-1" measuredW="197" measuredH="26" zOrder="1" locked="false" isInGroup="5">
+          <controlProperties>
+            <size>18</size>
+            <text>Philly%20CocoaHeads%20Logo</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="6" controlTypeID="__group__" x="303" y="403" w="339" h="225" measuredW="339" measuredH="225" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="339" h="225" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="6">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="7" controlTypeID="__group__" x="673" y="352" w="467" h="326" measuredW="467" measuredH="326" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="467" h="326" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="7">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="8" controlTypeID="__group__" x="1171" y="403" w="339" h="225" measuredW="339" measuredH="225" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="339" h="225" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="8">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SubTitle" x="702" y="376" w="-1" h="-1" measuredW="193" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Meeting%20Meeting</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="702" y="409" w="410" h="241" measuredW="275" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Thursday%20August%2014th%202014%20%0A6%3A30pm%20to%209%3A00pm%0A%20%0AWalnut%20Street%20Apple%20Store%0A1607%20Walnut%20Street%20%0APhiladelphia%20PA%0A%20%0APost%20Meeting%20Drinks%20at%20Nodding%20Head.%0A%20%0AAgenda%20Forthcoming</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::SubTitle" x="330" y="420" w="-1" h="-1" measuredW="253" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Side%20Project%20Saturday</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::SubTitle" x="1194" y="420" w="-1" h="-1" measuredW="125" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Workshops</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1714" y="115" w="1537" h="1210" measuredW="450" measuredH="400" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Philly%20CocoaHeads%0Ahttp%3A//phillycocoa.org</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Canvas" x="1844" y="188" w="1276" h="1110" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>14540253</borderColor>
+        <borderStyle>roundedDotted</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Canvas" x="1716" y="188" w="1531" h="101" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>10470904</color>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Image" x="1729" y="201" w="284" h="75" measuredW="77" measuredH="79" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::SubTitle" x="2554" y="225" w="-1" h="-1" measuredW="663" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%20%u2022%20Blog%20%u2022%20Employment%20Exchange%20%u2022%20Sponsors%20%u2022%20Leadership</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Canvas" x="1844" y="496" w="1276" h="517" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>10470904</color>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Canvas" x="1844" y="398" w="425" h="102" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>10470904</color>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Title" x="1971" y="412" w="-1" h="-1" measuredW="170" measuredH="43" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Meetings</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Canvas" x="2270" y="397" w="425" h="102" measuredW="100" measuredH="70" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Title" x="2383" y="412" w="-1" h="-1" measuredW="199" measuredH="43" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Workshops</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="2695" y="397" w="425" h="102" measuredW="100" measuredH="70" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Title" x="2790" y="412" w="-1" h="-1" measuredW="234" measuredH="43" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Project%20Days</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Paragraph" x="1880" y="528" w="596" h="452" measuredW="275" measuredH="80" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Thursday%20August%2014th%202014%20%0A6%3A30pm%20to%209%3A00pm%0A%20%0AWalnut%20Street%20Apple%20Store%0A1607%20Walnut%20Street%20%0APhiladelphia%20PA%0A%20%0APost%20Meeting%20Drinks%20at%20Nodding%20Head.</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Paragraph" x="2491" y="528" w="596" h="452" measuredW="275" measuredH="80" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Agenda%0A%20%0AShow%20and%20Tell%0A%20%0A*%20One%0A*%20Two%20%0A*%20Three%0A%20%0APresentations%0A%20%0AModern%20UITableView%2C%20by%20Mike%20Zornek%0A%20%0AThere%20are%20only%20a%20handful%20of%20other%20UIKit%20objects%20that%20are%20as%20pervasive%20amongst%20iOS%20applications%20as%20our%20good%20friend%20UITableView.%20Thus%2C%20having%20a%20strong%20understanding%20of%20UITableView%20is%20a%20huge%20step%20into%20becoming%20a%20great%20iOS%20programmer.%20In%20this%20talk%20we%20will%20review%20the%20basics%20of%20UITableView%20as%20well%20as%20explain%20how%20it%u2019s%20API%20has%20changed%20over%20the%20years%20and%20what%u2019s%20upcoming%20with%20iOS%208.%0A%20%0ASprite%20Kit%3A%20A%20game%20changer%20or%20wasted%20opportunity%3F%20%u2014%20Kotaro%20Fujita%0ALast%20year%2C%20Apple%u2019s%20finally%20supplies%20the%20Cocoa%20community%20with%20a%20gaming%20framework.%20We%20dive%20into%20the%20heart%20of%20this%20exclusive%20iOS7/8%20framework.%20What%20it%20is.%20How%20it%20came%20to%20be.%20How%20to%20develop%20on%20it.%20How%20does%20it%20compare%20to%20other%20frameworks.%20And%20finally%2C%20should%20you%20develop%20on%20it%20or%20is%20it%20still%20not%20ready%20for%20prime%20time%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1880" y="772" w="135" h="43" measuredW="139" measuredH="66" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>RSVP</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="1974" y="455" w="-1" h="-1" measuredW="164" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Next%3A%20Thursday%20August%2014th</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="2400" y="455" w="-1" h="-1" measuredW="164" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Next%3A%20Thursday%20August%2014th</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="2825" y="455" w="-1" h="-1" measuredW="164" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Next%3A%20Thursday%20August%2014th</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Canvas" x="2043" y="300" w="889" h="76" measuredW="100" measuredH="70" zOrder="29" locked="false" isInGroup="-1"/>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Paragraph" x="2067" y="318" w="842" h="68" measuredW="275" measuredH="80" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PhillyCocoa%20is%20the%20Philadelphia%20area%20Mac%20and%20iPhone%20programming%20group%2C%20a%20chapter%20of%20the%20worldwide%20CocoaHeads.%20All%20skill%20levels%20are%20welcome.%20The%20only%20requirement%20is%20an%20interest%20in%20Apple-related%20technologies%20and%20moderate%20tolerance%20for%20geeking%20out.</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Paragraph" x="1205" y="34" w="-1" h="-1" measuredW="275" measuredH="80" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PhillyCocoa%20is%20the%20Philadelphia%20area%20Mac%20and%20iPhone%20programming%20group%2C%20a%20chapter%20of%20the%20worldwide%20CocoaHeads.%20All%20skill%20levels%20are%20welcome.%20The%20only%20requirement%20is%20an%20interest%20in%20Apple-related%20technologies%20and%20moderate%20tolerance%20for%20geeking%20out.</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::VRule" x="2680" y="1045" w="-1" h="253" measuredW="10" measuredH="100" zOrder="32" locked="false" isInGroup="-1"/>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Title" x="1880" y="1045" w="-1" h="-1" measuredW="304" measuredH="43" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Blog%20Starts%20Here</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Title" x="2700" y="1045" w="-1" h="-1" measuredW="129" measuredH="43" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Twitter</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
