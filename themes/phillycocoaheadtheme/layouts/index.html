@@ -5,8 +5,7 @@
 
 <body>
 
-  {{ partial "nav.html" . }}
-  {{ partial "mission.html" . }}
+    {{ partial "nav.html" . }} {{ partial "mission.html" . }}
 
 
     <div id="content-banner" class="two-column-container">
@@ -52,23 +51,12 @@
 
         </section>
         <aside id="aside">
-            <h1>Sponsors</h1>
 
-            <p>
-                <a href="http://twilio.com/"><img src="{{ .Site.BaseURL }}images/twilio-logo.png" alt="Twilio Logo"></a></p>
+          {{ partial "sponsors.html" . }}
 
+<p><a href="/sponsorship">Learn more about sponsorship.</a></p>
 
-                <p>
-                    <a href="http://promptworks.com/"><img src="{{ .Site.BaseURL }}images/promptworks-logo.png" alt="Promptworks Logo"></a></p>
-
-
-
-
-                    <h1>What's New</h1>
-                    <ol>
-                      <li><strong>2/12</strong> <a href="">Code Review Video</a> posted.</li>
-                      <li><strong>2/10</strong> <a href="">Febuary agenda</a> posted.</li>
-</ol>
+          {{ partial "whatsnew.html" . }}
 
         </aside>
 
