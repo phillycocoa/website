@@ -3,7 +3,7 @@ type: page
 title: About
 ---
 
-## Mission
+# About
 
 Philly CocoaHeads is the Philadelphia area Mac and iOS programming group, a chapter of the worldwide <a href="http://cocoaheads.org/">CocoaHeads</a> organization.
 
