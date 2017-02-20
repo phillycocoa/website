@@ -38,6 +38,30 @@ a:active {
 
 /* Navgation Banner */
 
+/* unvisited link */
+#navigation-banner a:link {
+    color: #f8f8f8;
+    text-decoration: none;
+}
+
+/* visited link */
+#navigation-banner a:visited {
+    color: #f8f8f8;
+    text-decoration: none;
+}
+
+/* mouse over link */
+#navigation-banner a:hover {
+    color: #FF7125;
+    text-decoration: none;
+}
+
+/* selected link */
+#navigation-banner a:active {
+    color: #f16a23;
+    text-decoration: none;
+}
+
 #navigation-banner li {
   font-size: 120%;
   margin-left: 0.5em;
