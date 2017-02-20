@@ -11,6 +11,8 @@ Our mission is to help local developers learn and master Apple developer technol
 
 All members, attending any of our events or otherwise participating in our community should adhere to our [code of conduct](/about/code-of-conduct).
 
+If you are interesting in supporting our group, consider [sponsoring](/sponsorship) us.
+
 ## Communications
 
 If you have any feedback please send us an email <leadership@phillycocoa.org>.
