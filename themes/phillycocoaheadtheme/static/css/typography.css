@@ -1,0 +1,59 @@
+body {
+  font-family: 'Verdana', sans-serif;
+  font-size: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', 'Verdana', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  line-height: 1.5em;
+}
+
+ol, ul {
+  line-height: 1.5em;
+}
+
+/* unvisited link */
+a:link {
+    color: #f16a23;
+}
+
+/* visited link */
+a:visited {
+    color: #BF551C;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF7125;
+}
+
+/* selected link */
+a:active {
+    color: #f16a23;
+}
+
+/* Navgation Banner */
+
+#navigation-banner li {
+  font-size: 120%;
+  margin-left: 0.5em;
+}
+
+#navigation-banner a {
+  font-weight: bold;
+}
+
+/* Mission Banner */
+
+#mission-banner p {
+  font-size: 130%;
+  line-height: 1.2em;
+  font-style: italic;
+  text-shadow: 0 0 8px #000000;
+}
+
+/* About Leadership List */

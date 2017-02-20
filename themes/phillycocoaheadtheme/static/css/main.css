@@ -1,6 +1,8 @@
+
+
 header {
   padding: 1em 2em;
-  max-width: 1200px;
+  max-width: 960px;
   margin: 0 auto;
   display: flex;
 }
@@ -52,8 +54,11 @@ header ol li {
 
 #content-banner {
   padding: 1em 2em;
-  max-width: 1200px;
+  max-width: 960px;
   margin: 0 auto;
+}
+
+#content-banner.two-column-container {
   display: flex;
 }
 
@@ -70,4 +75,38 @@ header ol li {
 
 #footer-banner {
   background-color: grey;
+}
+
+/* About Leadership List */
+
+.leadership {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.leadership li {
+  margin-bottom: 1em;
+  display: flex;
+  width: 450px;
+}
+
+.leadership img {
+  margin-right: 1em;
+  border-radius: 50%;
+}
+
+.leadership .info {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+.leadership .info li {
+  margin-bottom: 0;
+}
+
+.leadership .info li.name {
+  font-size: 130%;
+  font-weight: bold;
 }

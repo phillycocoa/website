@@ -1,50 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="utf-8" />
-    <title>Philly CocoaHeads</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css" />
-</head>
+{{ partial "head.html" . }}
 
 <body>
 
-    <div id="navigation-banner">
-        <header>
-            <section id="logo-branding">
-                <img src="{{ .Site.BaseURL }}images/Philly_CocoaHeads_Logo.png" alt="Philly CocoaHead Logo">
-            </section>
-            <nav id="main-navigation">
-                <ol>
-                    <li>Home</li>
-                    <li>Events</li>
-                    <li>Videos</li>
-                    <li>Photos</li>
-                    <li>About</li>
-                </ol>
-            </nav>
-        </header>
-    </div>
-    <div id="mission-banner">
+  {{ partial "nav.html" . }}
+  {{ partial "mission.html" . }}
 
-        <section>
-            <p>Philly CocoaHeads is the Philadelphia area Mac and iOS programming group, a chapter of the worldwide <a href="http://cocoaheads.org/">CocoaHeads</a> orginization.</p>
 
-            <p>Our mission is to help local developers learn and master Apple developer technologies through social events and community. All skill levels are welcome.</p>
-
-        </section>
-
-    </div>
-    <div id="content-banner">
+    <div id="content-banner" class="two-column-container">
 
         <section id="event-details">
 
             <section>
 
                 <h1>Events</h1>
-
-
 
                 <section>
                     <h2>Side Project Saturday</h2>
@@ -74,23 +45,7 @@
                         <li>Apple Store | Map</li>
                         <li>1607 Walnut Street, Philadelphia, PA 19103</li>
                     </ol>
-                    <!--
-<h3>Agenda</h3>
-
-<h4>Show and Tell</h4>
-
-<dl>
-<dt>Push Notification in iOS 10 (Obj-C), Tarika Chawla</dt>
-<dd>This show and tell will showcase the differences between iOS 9 and iOS 10 push notification functions, how to make the push notifications compatible for both iOS 9 and iOS 10 and migration from iOS 9 to iOS 10.</dd>
-<dt>App Demo: Dodo, Lame Jokes</dt>
-<dd>A preview of the Dodo app (“hand selected lame jokes”) and a showcase of some of the creative marketing/development strategies surrounding it.</dd>
-<dt>App Demo: EverWash, Matt Calhoun</dt>
-<dd>EverWash is partnered with your neighborhood’s best car washes to provide unlimited washes for as low as $9.95 per month.</dd>
-</dl>
-
--->
                 </section>
-
 
             </section>
 
@@ -120,36 +75,9 @@
 
 
     </div>
-    <div id="footer-banner">
-        footer
-    </div>
 
+    {{ partial "footer.html" . }}
 
-    <!--
-
-
-  <nav>
-
-  </nav>
-    <section id="mission">
-        Philly CocoaHeads is the Philadelphia area Mac and iPhone programming group, a chapter of the worldwide CocoaHeads. All skill levels are welcome. The only requirement is an interest in Apple-related technologies and moderate tolerance for geeking out.
-    </section>
-
-
-    <section id="main">
-        <section id="event-details">
-            Event Details
-        </section>
-        <aside id="aside">
-            Sponsor What's New
-        </aside>
-    </section>
-    <footer>
-        <section id="copyright">
-            Copyright 2017 Philly CocoaHeads
-        </section>
-    </footer>
--->
 </body>
 
 </html>
