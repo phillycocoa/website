@@ -70,6 +70,12 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
 
 </ol>
 
+We'd like to also thank the following people for their past efforts helping run Philly CocoaHeads:
+
+* Andy Mroczkowski, [@amrox](http://twitter.com/amrox)
+* Mike Deaven, [@mikedeaven](https://twitter.com/mikedeaven)
+* Tom Piarulli, [@tompark_IO](https://twitter.com/tompark_IO)
+
 ## Blog Tools
 
 Our thanks to the following open source projects for giving us the tools to help build and run this site:
