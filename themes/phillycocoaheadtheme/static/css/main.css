@@ -72,7 +72,15 @@ header ol li {
 }
 
 #footer-banner {
-  background-color: grey;
+  background-color: #eee;
+  display: flex;
+  justify-content: center;
+}
+
+#footer-banner section {
+  padding: 1em 2em;
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 /* About Leadership List */

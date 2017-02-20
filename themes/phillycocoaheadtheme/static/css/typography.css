@@ -80,4 +80,15 @@ a:active {
   text-shadow: 0 0 8px #000000;
 }
 
-/* About Leadership List */
+/* Footer */
+
+#footer-banner ol {
+  list-style: none;
+}
+
+#footer-banner li {
+  display: inline;
+}
+
+#footer-banner ol li:after { content: " \00b7"; }
+#footer-banner ol li:last-child:after { content: none; }
