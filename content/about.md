@@ -15,11 +15,11 @@ If you are interesting in supporting our group, consider [sponsoring](/sponsorsh
 
 ## Communications
 
-If you have any feedback please send us an email <leadership@phillycocoa.org>.
+If you have any feedback please send us email at <leadership@phillycocoa.org>.
 
 You can also find us on Twitter at [@phillycocoa](http://twitter.com/phillycocoa).
 
-Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCocoaHeads/). Please RSVP there if you plan to attend.
+Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCocoaHeads/). Please RSVP if you plan to attend.
 
 ## Leadership
 

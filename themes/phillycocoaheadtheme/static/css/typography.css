@@ -39,25 +39,29 @@ a:active {
 /* Navgation Banner */
 
 /* unvisited link */
-#navigation-banner a:link {
+#navigation-banner a:link,
+#mission-banner a:link {
     color: #f8f8f8;
     text-decoration: none;
 }
 
 /* visited link */
-#navigation-banner a:visited {
+#navigation-banner a:visited,
+#mission-banner a:visited {
     color: #f8f8f8;
     text-decoration: none;
 }
 
 /* mouse over link */
-#navigation-banner a:hover {
+#navigation-banner a:hover,
+#mission-banner a:hover {
     color: #FF7125;
     text-decoration: none;
 }
 
 /* selected link */
-#navigation-banner a:active {
+#navigation-banner a:active,
+#mission-banner a:active {
     color: #f16a23;
     text-decoration: none;
 }
@@ -78,6 +82,38 @@ a:active {
   line-height: 1.2em;
   font-style: italic;
   text-shadow: 0 0 8px #000000;
+}
+
+/* Event */
+
+#event-details h2 {
+  border-width: 0 0 1px 0;
+  border-color: black;
+  border-style: solid;
+}
+
+.event-info {
+  background-color: #eee;
+  padding: 1em;
+  margin: 0 0 1em 2em;
+  float: right;
+  font-size: 90%;
+}
+
+.event-info h3 {
+  margin-top: 0;
+}
+
+.event-info p {
+  margin-bottom: 0;
+}
+
+.event-info time {
+  display: block;
+}
+
+.event-info address {
+  margin-top: 1em;
 }
 
 /* Footer */

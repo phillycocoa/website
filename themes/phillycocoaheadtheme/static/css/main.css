@@ -69,6 +69,7 @@ header ol li {
   display: inline;
   flex-shrink: 0;
   width: 300px;
+  margin-left: 3em;
 }
 
 #footer-banner {

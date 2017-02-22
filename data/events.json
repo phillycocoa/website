@@ -1,0 +1,33 @@
+{
+    "side_project_saturday": {
+        "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/236717517/",
+        "date": "2017-03-18",
+        "start_time": "10am",
+        "end_time": "5pm",
+        "location": {
+            "name": "Promptworks",
+            "address1": "1211 Chestnut Street Suite 400",
+            "address2": "Philadelphia, PA 19107"
+        }
+    },
+    "main_meeting": {
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/236818385/",
+      "date": "2017-03-09",
+      "start_time": "6pm",
+      "end_time": "8:30pm",
+        "location": {
+            "name": "Apple Store",
+            "address1": "1607 Walnut Street",
+            "address2": "Philadelphia, PA 19103"
+        }
+    },
+    "book_club": {
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/237573552/",
+      "date": "2017-02-28",
+      "start_time": "8pm",
+      "end_time": "9pm",
+        "location": {
+            "name": "Online via GoToMeeting"
+        }
+    }
+}

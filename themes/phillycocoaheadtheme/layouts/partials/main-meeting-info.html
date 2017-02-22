@@ -1,0 +1,14 @@
+{{ $event := $.Site.Data.events.main_meeting }}
+
+<section class="event-info">
+  <h3>Next Main Meeting</h3>
+  <time datetime="{{$event.date }}">
+    {{ dateFormat "Monday, Jan 2, 2006" $event.date }}
+  </time>
+  <time>{{ $event.start_time }} to {{ $event.end_time }}</time>
+
+  <address>{{ $event.location.name }}<br>
+  {{ $event.location.address1 }}<br>
+  {{ $event.location.address2 }}</address>
+  <p><a href="{{ $event.meetup_url }}">Meetup.com Event Page</a></p>
+</section>
