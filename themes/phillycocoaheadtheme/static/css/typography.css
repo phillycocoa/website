@@ -90,9 +90,11 @@ a:active {
   border-width: 0 0 1px 0;
   border-color: black;
   border-style: solid;
+  padding-bottom: .25em;
+  clear: both;
 }
 
-.event-info {
+#event-details .event-info {
   background-color: #eee;
   padding: 1em;
   margin: 0 0 1em 2em;
@@ -100,19 +102,19 @@ a:active {
   font-size: 90%;
 }
 
-.event-info h3 {
+#event-details .event-info h3 {
   margin-top: 0;
 }
 
-.event-info p {
+#event-details .event-info p {
   margin-bottom: 0;
 }
 
-.event-info time {
+#event-details .event-info time {
   display: block;
 }
 
-.event-info address {
+#event-details .event-info address {
   margin-top: 1em;
 }
 
