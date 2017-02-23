@@ -9,8 +9,8 @@
 
     <div id="content-banner">
 
-      {{ if eq .Type "post" }}
-        {{ partial "post.html" . }}
+      {{ if eq .Type "blog" }}
+        {{ partial "blog.html" . }}
       {{ else if eq .Type "page" }}
         {{ partial "page.html" . }}
       {{ else }}
