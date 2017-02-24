@@ -10,7 +10,7 @@ machine:
 
 dependencies:
   pre:
-    - wget -O ~/tmp/hugo_0.18.1_Linux-64bit.tar.gz https://github.com/spf13/hugo/releases/download/v0.18.1/hugo_0.18.1_Linux-64bit.tar.gz
+    - wget -O -x ~/tmp/hugo_0.18.1_Linux-64bit https://github.com/spf13/hugo/releases/download/v0.18.1/hugo_0.18.1_Linux-64bit.tar.gz
     - cd ~/tmp && tar xzf hugo_0.18.1_Linux-64bit.tar.gz
     - mv ~/tmp/hugo_0.18.1_Linux-64bit/hugo_0.18.1_Linux-64bit ~/bin/hugo
 
