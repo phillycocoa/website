@@ -4,15 +4,17 @@ checkout:
     - git submodule update --init --recursive
 
 machine:
-  pre:
+  environment:
+    CIRCLE_BUILD_DIR: $HOME/$CIRCLE_PROJECT_REPONAME
+    PATH: $PATH:$CIRCLE_BUILD_DIR/bin
+  post:
+    - mkdir -p $CIRCLE_BUILD_DIR/bin  pre:
     - git config --global user.name "CircleCI"
     - git config --global user.email "circleci@circleci.com"
 
 dependencies:
   pre:
-    - wget -O -x ~/tmp/hugo_0.18.1_Linux-64bit https://github.com/spf13/hugo/releases/download/v0.18.1/hugo_0.18.1_Linux-64bit.tar.gz
-    - cd ~/tmp && tar xzf hugo_0.18.1_Linux-64bit.tar.gz
-    - mv ~/tmp/hugo_0.18.1_Linux-64bit/hugo_0.18.1_Linux-64bit ~/bin/hugo
+    - bash ./ci-install-hugo.sh
 
 test:
   override:
