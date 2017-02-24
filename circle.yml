@@ -8,7 +8,8 @@ machine:
     CIRCLE_BUILD_DIR: $HOME/$CIRCLE_PROJECT_REPONAME
     PATH: $PATH:$CIRCLE_BUILD_DIR/bin
   post:
-    - mkdir -p $CIRCLE_BUILD_DIR/bin  pre:
+    - mkdir -p $CIRCLE_BUILD_DIR/bin
+  pre:
     - git config --global user.name "CircleCI"
     - git config --global user.email "circleci@circleci.com"
 
