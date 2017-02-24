@@ -1,0 +1,2 @@
+docutils==0.12
+Pygments==2.1
