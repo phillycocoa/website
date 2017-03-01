@@ -21,7 +21,7 @@ deployment:
     branch: master
     commands:
       - rm -rf public
-      - git clone git@github.com:phillycocoa/phillycocoa.github.io.git public
+      - git clone https://github.com/phillycocoa/phillycocoa.github.io.git public
       - hugo --theme=phillycocoaheadtheme
       - cd public
       - git add -A .
