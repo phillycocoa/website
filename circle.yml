@@ -11,19 +11,3 @@ machine:
 dependencies:
   pre:
     - bash ./ci-install-hugo.sh
-
-test:
-  override:
-    - hugo -v
-
-deployment:
-  master:
-    branch: master
-    commands:
-      - rm -rf public
-      - git clone https://github.com/phillycocoa/phillycocoa.github.io.git public
-      - hugo --theme=phillycocoaheadtheme
-      - cd public
-      - git add -A .
-      - git commit --message "Generated site on $(date)"
-      - git push origin master
