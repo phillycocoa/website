@@ -22,4 +22,8 @@ deployment:
     commands:
       - rm -rf public
       - git clone git@github.com:phillycocoa/phillycocoa.github.io.git public
-      - ./deploy.sh
+      - hugo --theme=phillycocoaheadtheme
+      - cd public
+      - git add -A .
+      - git commit --message "Generated site on $(date)"
+      - git push origin master
