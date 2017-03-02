@@ -18,12 +18,14 @@ Once changes are merged into `master` our CI system will auto deploy the site to
 
 Hugo is a static site generator written in Go. The easiest way to get Hugo is through [Homebrew](https://brew.sh/).
 
-> brew update
-> brew install hugo
+````
+brew update
+brew install hugo
+````
 
 Then from the command line, to launch a local server use:
 
-> hugo server --theme=phillycocoaheadtheme --buildDrafts
+`hugo server --theme=phillycocoaheadtheme --buildDrafts`
 
 Afterwords, point your browser at <http://localhost:1313/> and you'll see our site. The site should [Live Reload](https://gohugo.io/extras/livereload/) as you make content changes.
 
