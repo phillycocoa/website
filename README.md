@@ -2,17 +2,17 @@
 
 > The following site is still in development.
 
-This repo is the content source for the Philly CocoaHeads website, hosted at: <phillycocoa.org>. The site is built using the static site generator [Hugo](https://gohugo.io/), hosted on [Amazon S3](https://aws.amazon.com/s3/) and deployed using [CircleCI](http://circleci.com).
+This repo is the source for the Philly CocoaHeads website, hosted at: <phillycocoa.org>. The site is built using the static site generator [Hugo](https://gohugo.io/), hosted on [Amazon S3](https://aws.amazon.com/s3/) and deployed using [CircleCI](http://circleci.com).
 
 Current development staging is at: <http://phillycocoa.org.s3-website-us-east-1.amazonaws.com/>
 
 ## How to Contribute
 
-If you spot a typo or other bug, want to works towards an existing issue, please fork the repo and do a pull request.
+If you spot a typo, other bug or want to work towards an existing issue, please fork the repo and do a pull request.
 
-If you have a new idea, we'd ask you make a GitHub issue so the idea can be discussed before work is started.
+If you have a new idea, we'd ask you make a GitHub issue so the idea can be discussed before serious work is started.
 
-Once changes are merged into `master` our CI system will auto deploy the site to S3.
+Once changes are merged into `master` our CI system will auto deploy the site.
 
 ## Working with Hugo
 
