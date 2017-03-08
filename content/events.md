@@ -1,6 +1,6 @@
 ---
 type: page
-title: About
+title: Events
 ---
 
 {{< event-page-content >}}
