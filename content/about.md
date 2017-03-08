@@ -9,7 +9,7 @@ Philly CocoaHeads is the Philadelphia area Mac and iOS programming group, a chap
 
 Our mission is to help local developers learn and master Apple developer technologies through social events and community. All skill levels are welcome.
 
-All members, attending any of our events or otherwise participating in our community should adhere to our [code of conduct](/about/code-of-conduct).
+All members, attending any of our events or otherwise participating in our community should adhere to our [code of conduct](/code-of-conduct).
 
 If you are interesting in supporting our group, consider [sponsoring](/sponsorship) us.
 
