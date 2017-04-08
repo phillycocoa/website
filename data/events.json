@@ -1,7 +1,7 @@
 {
     "side_project_saturday": {
-        "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/236717517/",
-        "date": "2017-03-18",
+        "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/237788948/",
+        "date": "2017-04-22",
         "start_time": "10am",
         "end_time": "5pm",
         "location": {
@@ -11,8 +11,8 @@
         }
     },
     "main_meeting": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/236818385/",
-      "date": "2017-03-09",
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/237755710/",
+      "date": "2017-04-13",
       "start_time": "6pm",
       "end_time": "8:30pm",
         "location": {
@@ -22,8 +22,8 @@
         }
     },
     "book_club": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/237573552/",
-      "date": "2017-02-28",
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/238921081/",
+      "date": "2017-004-11",
       "start_time": "8pm",
       "end_time": "9pm",
         "location": {
