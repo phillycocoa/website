@@ -41,6 +41,6 @@ For folks who drive in and need parking one lot recommend by the store is from [
 
 > Showcase the differences between iOS 9 and iOS 10 push notification functions. How to make the push notifications compatible for both iOS 9 and iOS 10. Migration from iOS 9 to iOS 10.
 
-### Visualizing gravity through Einstein’s general relativity: A Swift Playground
+### Visualizing gravity through Einstein’s general relativity: A Swift Playground, Hanjie Liu (Hollis)
 
 > For this year’s WWDC student scholarship submission, I wrote a Swift Playground that simplifies and visualizes the gravitational effect of masses in the context of general relativity. I’ll demo the interactive visualization, show how a learner can code on iPad to change the behavior of the simulation, and walk through the technologies I used to build this playground.
