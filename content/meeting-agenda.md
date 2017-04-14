@@ -3,6 +3,12 @@ type: page
 title: April Meeting Agenda
 ---
 
+# May Agenda Coming Soon
+
+If you'd like to present, get [in touch with us](mailto:zorn@phillycocoa.org).
+
+---
+
 # April Meeting Agenda
 
 The next [Philly CocoaHeads][PC] meeting will be **Thursday, April 13th from 6:00pm - 8:30pm** at the [Apple Store on 16th and Walnut][Apple]. After meeting drinks will commence at [Fox and Hound Sports Bar][FOX] at 1501 Spruce Street.
