@@ -5,8 +5,6 @@ title: May Meeting Agenda
 
 # May Meeting Agenda
 
-## Event Meeting Notes
-
 [Event Meeting Notes](https://docs.google.com/document/d/1afXqyRHlYSYsUcBDG8oyrjBAqvi3TiLUXaSpxGEd30g/edit?usp=sharing) -- Everyone is encouraged to participate and edit our meeting notes on Google Docs.
 
 The next [Philly CocoaHeads][PC] meeting will be **Thursday, May 11th from 6:00pm - 8:30pm** at the [Apple Store on 16th and Walnut][Apple]. After meeting drinks will commence at [Fox and Hound Sports Bar][FOX] at 1501 Spruce Street.
