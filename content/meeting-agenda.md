@@ -1,17 +1,11 @@
 ---
 type: page
-title: April Meeting Agenda
+title: May Meeting Agenda
 ---
 
-# May Agenda Coming Soon
+# May Meeting Agenda
 
-If you'd like to present, get [in touch with us](mailto:zorn@phillycocoa.org).
-
----
-
-# April Meeting Agenda
-
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, April 13th from 6:00pm - 8:30pm** at the [Apple Store on 16th and Walnut][Apple]. After meeting drinks will commence at [Fox and Hound Sports Bar][FOX] at 1501 Spruce Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, May 11th from 6:00pm - 8:30pm** at the [Apple Store on 16th and Walnut][Apple]. After meeting drinks will commence at [Fox and Hound Sports Bar][FOX] at 1501 Spruce Street.
 
 [PC]:http://phillycocoa.org
 [Apple]:http://www.apple.com/retail/walnutstreet/
@@ -35,18 +29,15 @@ For folks who drive in and need parking one lot recommend by the store is from [
 
 ## Presentations
 
-### Apple Watch to iPhone to Apple TV, Kotaro Fujita and Aaron Bilenky
+### Understanding the Many Ways UIViewControllers Can Load Views, Mike Zornek
 
-> How a childhood dream of piloting robots by your watch took Aaron and Kotaro through an interesting journey of different tech stacks with a lot of Apple's 10 core technologies behind it.
+> With recent changes, Xcode now forces the use of Storyboards. While such technology can be helpful it can also start to feel like "magic". In this talk we'll break down how UIViewControllers loads views, programmatically, using XIBs and finally with Storyboards.
 
-### iOS at the Art Museum, Peter W. Alt
+### Using Sketch Artboards to export App Icon/Screenshots, Kotaro Fujita
 
-> When I joined the Art Museum, I had no idea how deep I would get into iOS development. I'll give a brief overview over the apps we developed (and bring demos along), what working with iBeacons really means, how we're using apps that have to run 24/7 and lessons learned, including backend tools we had to develop and a quick peek at upcoming things.
+> There are many ways to export the dozens of app icons and screenshots for App submission. That can be painful when you have a ton of sizes to remember. While not perfect by any means, I've made a simple way to manage this using Sketch's Artboards.
 
-### Push Notification in iOS 10, Tarika Chawla
+### Roundtable: Xcode Tips and Tricks
 
-> Showcase the differences between iOS 9 and iOS 10 push notification functions. How to make the push notifications compatible for both iOS 9 and iOS 10. Migration from iOS 9 to iOS 10.
+> We'll have Xcode running on the projector and will go around the room asking for their favorite tips and tricks.
 
-### Visualizing gravity through Einstein’s general relativity: A Swift Playground, Hanjie Liu (Hollis)
-
-> For this year’s WWDC student scholarship submission, I wrote a Swift Playground that simplifies and visualizes the gravitational effect of masses in the context of general relativity. I’ll demo the interactive visualization, show how a learner can code on iPad to change the behavior of the simulation, and walk through the technologies I used to build this playground.
