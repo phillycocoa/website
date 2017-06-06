@@ -1,7 +1,7 @@
 {
     "side_project_saturday": {
         "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/239365698/",
-        "date": "2017-05-27",
+        "date": "2017-06-24",
         "start_time": "10am",
         "end_time": "5pm",
         "location": {
@@ -22,8 +22,8 @@
         }
     },
     "book_club": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/239712791/",
-      "date": "2017-05-09",
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/",
+      "date": "2017-06-27",
       "start_time": "8pm",
       "end_time": "9pm",
         "location": {
