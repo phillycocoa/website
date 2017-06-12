@@ -1,13 +1,13 @@
 ---
 type: page
-title: May Meeting Agenda
+title: June Meeting Agenda
 ---
 
-# May Meeting Agenda
+# June Meeting Agenda
 
-[Event Meeting Notes](https://docs.google.com/document/d/1afXqyRHlYSYsUcBDG8oyrjBAqvi3TiLUXaSpxGEd30g/edit?usp=sharing) -- Everyone is encouraged to participate and edit our meeting notes on Google Docs.
+[Event Meeting Notes](https://docs.google.com/document/d/1YXp95Akhhj4gkm8TieceYYERYPekH5jBwctp8dXIRwM/edit?usp=sharing) -- Everyone is encouraged to participate and edit our meeting notes on Google Docs.
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, May 11th from 6:00pm - 8:30pm** at the [Apple Store on 16th and Walnut][Apple]. After meeting drinks will commence at [Fox and Hound Sports Bar][FOX] at 1501 Spruce Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, June 15th from 6:00pm - 8:30pm** at the [Apple Store on 16th and Walnut][Apple]. After meeting drinks will commence at [Fox and Hound Sports Bar][FOX] at 1501 Spruce Street.
 
 [PC]:http://phillycocoa.org
 [Apple]:http://www.apple.com/retail/walnutstreet/
@@ -31,15 +31,15 @@ For folks who drive in and need parking one lot recommend by the store is from [
 
 ## Presentations
 
-### Understanding the Many Ways UIViewControllers Can Load Views, Mike Zornek
+### From Researcher to Developer in ~1200 Hours, Gillian Reynolds-Titko
 
-> With recent changes, Xcode now forces the use of Storyboards. While such technology can be helpful it can also start to feel like "magic". In this talk we'll break down how UIViewControllers loads views, programmatically, using XIBs and finally with Storyboards.
+> A quick overview of why I decided to change my career from a research scientist/manager to a software developer, how I did that, and the results.
 
-### Using Sketch Artboards to export App Icon/Screenshots, Kotaro Fujita
+### Kevin Tarr, App Demo: Hashtag Cinema VR
 
-> There are many ways to export the dozens of app icons and screenshots for App submission. That can be painful when you have a ton of sizes to remember. While not perfect by any means, I've made a simple way to manage this using Sketch's Artboards.
+> Hashtag #Cinema VR is a platform that gives power to filmmakers and Content Creators to put their movies, web series, documentaries, 360 video and other video content on the big screen for the world to see.
 
-### Roundtable: Xcode Tips and Tricks
+### Roundtable: WWDC Discussion
 
-> We'll have Xcode running on the projector and will go around the room asking for their favorite tips and tricks.
+> WWDC was last week and tonight we'll go around the room to hear how things went in San Jose; from those who were out on the west coast mingling to those who stayed home and binged on WWDC video downloads.
 
