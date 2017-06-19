@@ -11,14 +11,14 @@
         }
     },
     "main_meeting": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/239190782/",
-      "date": "2017-06-15",
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/237755719/",
+      "date": "2017-07-13",
       "start_time": "6pm",
       "end_time": "8:30pm",
         "location": {
-            "name": "Apple Store",
-            "address1": "1607 Walnut Street",
-            "address2": "Philadelphia, PA 19103"
+            "name": "IndyHall",
+            "address1": "399 Market Street, Suite 360",
+            "address2": "Philadelphia, PA 19106"
         }
     },
     "book_club": {
