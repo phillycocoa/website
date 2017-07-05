@@ -6,7 +6,7 @@ title: "More Info on the Main Meeting Improvements"
 
 We have a lot of tweaks/improvements planed for the main meeting format and to help set expectations I wanted to post some notes beforehand.
 
-First, the meeting (Thursday July 13th) will be held at IndyHall instead of the Apple Store. We announced this back in May and we hope the more open floor plan of IndyHall will let us do things we could not before, as well as host more people.
+First, the meeting ([Thursday, July 13th](https://www.meetup.com/PhillyCocoaHeads/events/237755719/)) will be held at IndyHall instead of the Apple Store. We announced this back in May and we hope the more open floor plan of IndyHall will let us do things we could not before, as well as host more people.
 
 Second, the meeting will be returning to it's previous times of 6:30pm to 9:00pm. We hope the later starting time will help people who have to commute to CocoaHeads from a job somewhere far away. If you do arrive early there is plenty of desk space to crash on while we setup. There are also numerous coffee shops in the area if that is more your cup of tea, er coffee.
 
