@@ -28,3 +28,5 @@ When you arrive you'll be able to post your "problem/question" to a board which 
 So please, take some time before the meeting to draft up something you'd like some help with and we'll do our best to help.
 
 Some other small tweaks you may notice at the meeting, include new name tags (be sure to pick one up at entrance and be sure to say hi to a new face) as well as more food options (we'll be getting some pizzas as well as a hoagie tray from Primos -- ping @zorn if you have any preferences or special requests).
+
+After the meeting please let us know how it went for you (Email <leadership@phillycocoa.org>). We value your feedback tremendously.
