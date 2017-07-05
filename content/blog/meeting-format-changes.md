@@ -6,9 +6,9 @@ title: "More Info on the Main Meeting Improvements"
 
 We have a lot of tweaks/improvements planed for the main meeting format and to help set expectations I wanted to post some notes beforehand.
 
-First, the meeting ([Thursday, July 13th](https://www.meetup.com/PhillyCocoaHeads/events/237755719/)) will be held at IndyHall instead of the Apple Store. We announced this back in May and we hope the more open floor plan of IndyHall will let us do things we could not before, as well as host more people.
+First, the meeting ([Thursday, July 13th](https://www.meetup.com/PhillyCocoaHeads/events/237755719/)) will be held at [IndyHall](https://www.indyhall.org/) instead of the Apple Store. We announced this back in May and we hope the more open floor plan of IndyHall will let us do things we could not before, as well as host more people. More venue info on the [official agenda page](/meeting-agenda).
 
-Second, the meeting will be returning to it's previous times of 6:30pm to 9:00pm. We hope the later starting time will help people who have to commute to CocoaHeads from a job somewhere far away. If you do arrive early there is plenty of desk space to crash at IndyHall on while we setup. There are also numerous coffee shops in the area if that is more your cup of tea, er coffee.
+Second, the meeting will be returning to it's previous times of 6:30pm to 9:00pm. We hope the later starting time will help people who have to commute to CocoaHeads from a job somewhere far away. If you do arrive early there is plenty of desk space to crash at IndyHall on while we setup. There are also numerous coffee shops in the area such as [Menagerie](http://www.menageriecoffee.com/), [Starbucks](https://www.starbucks.com/store-locator/store/13851/3rd-arch-57-63-north-third-street-philadelphia-pa-191064508), and [Old City Coffee](https://oldcitycoffee.com/) if that is more your cup of tea, er coffee.
 
 Third, we are expanding the social time and introducing a "problem board" system to help people who are struggling with a code issue or looking for help in some other way. This kind of pairing up is something that has been very successful at Side Project Saturdays and we want to bring a piece of it to our main meeting.
 
