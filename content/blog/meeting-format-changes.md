@@ -10,9 +10,9 @@ First, the next meeting ([Thursday, July 13th](https://www.meetup.com/PhillyCoco
 
 Second, the meeting will be returning to it's previous times of 6:30pm to 9:00pm. We hope the later starting time will help people who have to commute to CocoaHeads from a job somewhere far away. If you do arrive early there is plenty of desk space to use at IndyHall while we setup. There are also numerous coffee shops in the area such as [Menagerie](http://www.menageriecoffee.com/), [Starbucks](https://www.starbucks.com/store-locator/store/13851/3rd-arch-57-63-north-third-street-philadelphia-pa-191064508), and [Old City Coffee](https://oldcitycoffee.com/) if that is more your cup of tea, er coffee.
 
-Third, we are expanding the social time and introducing a "Help Board" system to enable people who are struggling with a code issue or looking for assistance to find some help. This kind of pairing has been very successful at Side Project Saturdays and we want to bring a piece of it to our main meeting.
+Third, we are expanding the social time and introducing a "Help Board" system to assist people who are wrestling with a code issue or looking for assistance to find some help. This kind of pairing has been very successful at Side Project Saturdays and we want to bring a piece of it to our main meeting.
 
-When you arrive you'll be invited to post your problem or question to the Help Board which will be on the projector. From there other members will self match (come to the welcome desk and offer your help!) and/or we'll do our best to find someone for ya. Some examples of problems or questions you might want to bring include:
+When you arrive you'll be invited to post your issue or question to the Help Board which will be on the projector. From there other members will self match (come to the welcome desk and offer your help!) and/or we'll do our best to find someone for you. Some examples of issues or questions you might want to bring include:
 
 * Bugs and Broken Behavior
 * Code Review
@@ -25,7 +25,7 @@ When you arrive you'll be invited to post your problem or question to the Help B
 * Resume Review
 * Job Interview Practice
 
-So please, take some time before the meeting to draft up something you'd like some help with and we'll do what we can to find a solution.
+So please feel comfortable sharing an issue and making use of the different expertise of your peers. You'll do the same for someone else down the line.
 
 Some other small tweaks you may notice at the meeting, include new name tags (be sure to pick one up at entrance and be sure to say hi to a new face!) as well as more food options (we'll be getting some pizzas as well as hoagie trays -- ping @zorn if you have any preferences or special requests).
 
