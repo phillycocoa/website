@@ -27,6 +27,6 @@ When you arrive you'll be invited to post your issue or question to the Help Boa
 
 So please feel comfortable sharing an issue and making use of the different expertise of your peers. You'll do the same for someone else down the line.
 
-Some other small tweaks you may notice at the meeting, include new name tags (be sure to pick one up at entrance and be sure to say hi to a new face!) as well as more food options (we'll be getting some pizzas as well as hoagie trays -- ping @zorn if you have any preferences or special requests).
+Some other small tweaks you may notice at the meeting, include new name tags (be sure to pick one up at entrance and be sure to say hi to a new face!) as well as more food options (we'll be getting some pizzas as well as hoagie trays -- fill our our [food survey](https://goo.gl/forms/mEWZFejNQykZaTSu2) to let your preferences or special requests be known).
 
 After the meeting please let us know how it went for you (Email <leadership@phillycocoa.org>). We value your feedback tremendously.
