@@ -1,7 +1,7 @@
 {
     "side_project_saturday": {
-        "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/239365698/",
-        "date": "2017-06-24",
+        "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/240424676/",
+        "date": "2017-07-29",
         "start_time": "10am",
         "end_time": "5pm",
         "location": {
@@ -13,8 +13,8 @@
     "main_meeting": {
       "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/237755719/",
       "date": "2017-07-13",
-      "start_time": "6pm",
-      "end_time": "8:30pm",
+      "start_time": "6:30pm",
+      "end_time": "9:00pm",
         "location": {
             "name": "IndyHall",
             "address1": "399 Market Street, Suite 360",
@@ -22,8 +22,8 @@
         }
     },
     "book_club": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/",
-      "date": "2017-06-27",
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/rfrshnywkbpb/",
+      "date": "2017-07-11",
       "start_time": "8pm",
       "end_time": "9pm",
         "location": {

@@ -1,23 +1,21 @@
 ---
 type: page
-title: June Meeting Agenda
+title: July Meeting Agenda
 ---
 
-# June Meeting Agenda
+# July Meeting Agenda
 
-[Event Meeting Notes](https://docs.google.com/document/d/1YXp95Akhhj4gkm8TieceYYERYPekH5jBwctp8dXIRwM/edit?usp=sharing) -- Everyone is encouraged to participate and edit our meeting notes on Google Docs.
+[Event Meeting Notes](https://docs.google.com/document/d/139RhwIxu0wPmzl2XneFPdqygq3coQZYfcT48grpvTkI/edit?usp=sharing) -- Everyone is encouraged to participate and edit our meeting notes on Google Docs during and after the meeting.
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, June 15th from 6:00pm - 8:30pm** at the [Apple Store on 16th and Walnut][Apple]. After meeting drinks will commence at [Fox and Hound Sports Bar][FOX] at 1501 Spruce Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, July 13th from 6:30pm - 9:00pm** at [IndyHall, on the 3rd floor of the Colonial Penn Building at 4th and Market][IndyHall]. After meeting drinks will commence at [National Mechanics][NationalMechanics] at 22 South 3rd Street.
 
 [PC]:http://phillycocoa.org
-[Apple]:http://www.apple.com/retail/walnutstreet/
-[FOX]: http://www.foxandhound.com/locations/philadelphia/
+[IndyHall]:https://www.indyhall.org/
+[NationalMechanics]: http://www.nationalmechanics.com/
 
 Please RSVP via Meetup: <http://www.meetup.com/PhillyCocoaHeads/>
 
-When you arrive at the Apple Store let one of the store employees know you are there for CocoaHeads and they will let you into the back where you can come up to the second floor briefing room space.
-
-For folks who drive in and need parking one lot recommend by the store is from [LAZ Parking on Chancellor Street](https://goo.gl/maps/JJ5rFcG1hX72).
+For folks who drive in and need parking the closet garage is the Bourse Garage on 4th between Market and Chestnut. [Website says](https://www.parkme.com/lot/85982/bourse-garage-philadelphia-pa) there is a "Evening, In After 5pm / Out By 7am" for $8.50. Needs confirmation.
 
 ## Meeting Agenda
 
@@ -31,15 +29,12 @@ For folks who drive in and need parking one lot recommend by the store is from [
 
 ## Presentations
 
-### From Researcher to Developer in ~1200 Hours, Gillian Reynolds-Titko
+### Learn by Teaching: The unexpected benefits of mentoring others, Kostas and YingYing Zhang
 
-> A quick overview of why I decided to change my career from a research scientist/manager to a software developer, how I did that, and the results.
+> I've been doing a good deal of informal teaching and mentoring the past few months, and exploring ways to teach programming to someone with no experience.
+>
+> I can talk a little bit about what I've tried, lessons learned, and my assessment of existing solutions for learning to code. And try to make the case for why all developers should mentor someone, and the unexpected benefits of doing so. I also can touch briefly on a new app-making platform we've been playing around with called [Fuse](https://www.fusetools.com/). It lets you build pretty sophisticated UI using just an HTML-like markup language. It's been really great for teaching the basic concepts of app development.
 
-### Kevin Tarr, App Demo: Hashtag Cinema VR
+### Persistence, Curtis Herbert
 
-> Hashtag #Cinema VR is a platform that gives power to filmmakers and Content Creators to put their movies, web series, documentaries, 360 video and other video content on the big screen for the world to see.
-
-### Roundtable: WWDC Discussion
-
-> WWDC was last week and tonight we'll go around the room to hear how things went in San Jose; from those who were out on the west coast mingling to those who stayed home and binged on WWDC video downloads.
-
+> There are a lot of ways to save data in iOS, so when you're getting started it can be hard to figure out which way makes the most sense for what you're doing. We'll go over the most common ways to save and retrieve data in iOS (including code examples), along with some insights into the tradeoffs each method comes with.
