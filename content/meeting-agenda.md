@@ -1,11 +1,11 @@
 ---
 type: page
-title: September Meeting Agenda
+title: October Meeting Agenda
 ---
 
-# September Meeting Agenda
+# October Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, September 14th from 6:30pm - 9:00pm** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [National Mechanics][NationalMechanics] at 22 South 3rd Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, October 12th from 6:30pm - 9:00pm** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [National Mechanics][NationalMechanics] at 22 South 3rd Street.
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
@@ -29,16 +29,18 @@ For folks who drive in and need parking the closet garage is the Bourse Garage o
 
 ## Presentations
 
-### MyVC - a beginner friendly opinionated talk on MVC, Taun Chapman
+### Charts, Mike Zornek
 
-> For beginners, there will be an introduction to MVC (Model View Controller). Followed by how to use classic MVC to have simple, flexible and reusable code with practically empty view controllers. 
-> 
-> There will be a simple Swift 4.0 iOS 11 demo app to show the pattern in action. The app will also be available in GitHub after the talk for use as a sample pattern. 
-> 
-> Do you want to theme your app? MyVC. 
-> Do you want reusable components? MyVC. 
-> MVC is 30 years old and still works beautifully for modern apps. 
+> A quick introduction to this [helpful library](https://github.com/danielgindi/Charts) for embedding clean charts for iOS which are both intractable and animatable.
 
-### Core Data Stacks and Problems, Andrew Riznyk
+### Matt Smollinger Shows Maps
 
-> The goal of this will be to present the common stacks involved with Core Data the pros and cons of each and how to create or update large quantities of data from a web service quickly.
+> Matt runs mobile for Mapzen.com, an open mapping company. He's gonna show off his iOS SDK he built.
+
+### The Feline Finder Developer Journey, Gregory Williams
+
+> It has been a long road from an app that started life as basically a zombie app to one that had 450 downloads in one day.  I would like to show how the app looks now and tell you its journey.  I will show my new 3.3 version app and will tell how I worked with www.fiverr.com to produce the current version.  I will talk about how I tried to advertise my app.
+
+### Puck Striker, Kotaro Fujita
+
+> A behind-the-scenes look at taking a simple game jam prototype to final iOS product within a month.
