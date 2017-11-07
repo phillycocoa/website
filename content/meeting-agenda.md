@@ -1,11 +1,11 @@
 ---
 type: page
-title: October Meeting Agenda
+title: November Meeting Agenda
 ---
 
-# October Meeting Agenda
+# November Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, October 12th from 6:30pm - 9:00pm** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [National Mechanics][NationalMechanics] at 22 South 3rd Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, November 9th from 6:30pm - 9:00pm** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [National Mechanics][NationalMechanics] at 22 South 3rd Street.
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
@@ -29,18 +29,14 @@ For folks who drive in and need parking the closet garage is the Bourse Garage o
 
 ## Presentations
 
-### Charts, Mike Zornek
+### Starting Server-Side Swift, Ian MacFarlane
 
-> A quick introduction to this [helpful library](https://github.com/danielgindi/Charts) for embedding clean charts for iOS which are both intractable and animatable.
+> Let's go over server basics, in Swift, using IBM's Kitura framework! We'll set up the server's environment, interface with a database, define routes, and render web pages using Stencil. 
 
-### Matt Smollinger Shows Maps
+### Philly CocoaHeads Podcast Brainstorm, Tarika Chawla
 
-> Matt runs mobile for Mapzen.com, an open mapping company. He's gonna show off his iOS SDK he built.
+> There has been a lot of backchannel chat about doing a podcast. Tarika Chawla will lead a group brainstorm reviewing some ideas.
 
-### The Feline Finder Developer Journey, Gregory Williams
+### Be Thankful Roundtable!
 
-> It has been a long road from an app that started life as basically a zombie app to one that had 450 downloads in one day.  I would like to show how the app looks now and tell you its journey.  I will show my new 3.3 version app and will tell how I worked with www.fiverr.com to produce the current version.  I will talk about how I tried to advertise my app.
-
-### Puck Striker, Kotaro Fujita
-
-> A behind-the-scenes look at taking a simple game jam prototype to final iOS product within a month.
+> We'll close the meeting with an roundtable and give thanks to the pods, libraires, websites, books and other iOS recourses that we've found helpful this past year. Take a few minutes ahead of time and jot down your favorites.
