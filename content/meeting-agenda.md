@@ -15,7 +15,7 @@ Please RSVP via Meetup: <http://www.meetup.com/PhillyCocoaHeads/>
 
 Please bring your questions and issues for our [new help board](http://phillycocoa.org/blog/meeting-format-changes/) during social time.
 
-For folks who drive in and need parking the closet garage is the Bourse Garage on 4th between Market and Chestnut. [Website says](https://www.parkme.com/lot/85982/bourse-garage-philadelphia-pa) there is a "Evening, In After 5pm / Out By 7am" for $8.50.
+For folks who drive in and need parking the closest garage is the Bourse Garage on 4th between Market and Chestnut. [Website says](https://www.parkme.com/lot/85982/bourse-garage-philadelphia-pa) there is a "Evening, In After 5pm / Out By 7am" for $8.50.
 
 ## Meeting Agenda
 
