@@ -26,11 +26,20 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
 <ol class="leadership">
 
 <li>
-  <img src="https://www.gravatar.com/avatar/68d48587fc806c2b35eb9ff0b7ad8115?s=150" alt="Mike Zornek Profile Photo">
+  <img src="https://www.gravatar.com/avatar/9b54e5324785eb939bcc8f15c724baf9?s=150" alt="Curtis Herbert Profile Photo">
   <ol class="info">
-  <li class="name">Mike Zornek</li>
-  <li class="twitter"><a href="http://twitter.com/zorn">@zorn</a></li>
-  <li class="responsibilities">(Main Meetings)</li>
+  <li class="name">Curtis Herbert</li>
+  <li class="twitter"><a href="http://twitter.com/parrots">@parrots</a></li>
+  <li class="responsibilities">(Main Meetings / Videos)</li>
+  </ol>
+</li>
+
+<li>
+  <img src="https://www.gravatar.com/avatar/d57cc2039356f01eae1c76616971ebe4?s=150" alt="Tarika Chawla Profile Photo">
+  <ol class="info">
+  <li class="name">Tarika Chawla</li>
+  <li class="twitter"><a href="http://twitter.com/tarikachawla">@tarikachawla</a></li>
+  <li class="responsibilities">(Speaker Organizer / Podcast)</li>
   </ol>
 </li>
 
@@ -39,25 +48,7 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
   <ol class="info">
   <li class="name">Stephen Tolton</li>
   <li class="twitter"><a href="http://twitter.com/stolton">@stolton</a></li>
-  <li class="responsibilities">(Side Project Saturdays)</li>
-  </ol>
-</li>
-
-<li>
-  <img src="https://www.gravatar.com/avatar/d745cdc85e6df10fd8691b06ff840e5f?s=150" alt="Michael Mayer Profile Photo">
-  <ol class="info">
-  <li class="name">Michael Mayer</li>
-  <li class="twitter"><a href="http://twitter.com/jm2software">@jm2software</a></li>
-  <li class="responsibilities">(Book Club)</li>
-  </ol>
-</li>
-
-<li>
-  <img src="https://www.gravatar.com/avatar/9b54e5324785eb939bcc8f15c724baf9?s=150" alt="Curtis Herbert Profile Photo">
-  <ol class="info">
-  <li class="name">Curtis Herbert</li>
-  <li class="twitter"><a href="http://twitter.com/parrots">@parrots</a></li>
-  <li class="responsibilities">(Videos)</li>
+  <li class="responsibilities">(Side Project Saturdays / Podcast)</li>
   </ol>
 </li>
 
@@ -66,7 +57,34 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
   <ol class="info">
   <li class="name">Kotaro Fujita</li>
   <li class="twitter"><a href="http://twitter.com/wild37">@wild37</a></li>
-  <li class="responsibilities">(Website / Twitter)</li>
+  <li class="responsibilities">(Main Meeting Greeter / Twitter / Podcast)</li>
+  </ol>
+</li>
+
+<li>
+  <img src="https://www.gravatar.com/avatar/d745cdc85e6df10fd8691b06ff840e5f?s=150" alt="Michael Mayer Profile Photo">
+  <ol class="info">
+  <li class="name">Michael Mayer</li>
+  <li class="twitter"><a href="http://twitter.com/jm2software">@jm2software</a></li>
+  <li class="responsibilities">(Book Club / Treasurer)</li>
+  </ol>
+</li>
+
+<li>
+  <img src="https://www.gravatar.com/avatar/42267223014b3d0ec4f033ffe7cbda92?s=150" alt="Matt Smollinger Profile Photo">
+  <ol class="info">
+  <li class="name">Matt Smollinger</li>
+  <li class="twitter"><a href="http://twitter.com/mattsmollinger">@mattsmollinger</a></li>
+  <li class="responsibilities">(Website / Future Projects)</li>
+  </ol>
+</li>
+
+<li>
+  <img src="https://www.gravatar.com/avatar/41d38d758bfcbc0d546189dbc1d2fee9?s=150" alt="Gillian Reynolds-Titko Profile Photo">
+  <ol class="info">
+  <li class="name">Gillian Reynolds-Titko</li>
+  <li class="twitter"><a href="https://www.linkedin.com/in/gillianreynoldstitko/">LinkedIn</a></li>
+  <li class="responsibilities">(Website / Future Projects)</li>
   </ol>
 </li>
 
@@ -77,6 +95,7 @@ We'd like to also thank the following people for their past efforts helping run 
 * Andy Mroczkowski, [@amrox](http://twitter.com/amrox)
 * Mike Deaven, [@mikedeaven](https://twitter.com/mikedeaven)
 * Tom Piarulli, [@tompark_IO](https://twitter.com/tompark_IO)
+* Mike Zornek, [Website](http://mikezornek.com)
 
 ## Blog Tools
 
