@@ -11,8 +11,8 @@
         }
     },
     "main_meeting": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/241181384/",
-      "date": "2017-11-09",
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/242452998/",
+      "date": "2017-12-14",
       "start_time": "6:30pm",
       "end_time": "9:00pm",
         "location": {
@@ -22,8 +22,8 @@
         }
     },
     "book_club": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/244904252/",
-      "date": "2017-11-14",
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/244904265/",
+      "date": "2017-11-21",
       "start_time": "8pm",
       "end_time": "9pm",
         "location": {
