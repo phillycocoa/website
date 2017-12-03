@@ -1,6 +1,6 @@
 ---
 type: page
-title: November Meeting Agenda
+title: December Meeting Agenda
 ---
 
 # December Meeting Agenda
