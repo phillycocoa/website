@@ -29,9 +29,9 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ## Presentations
 
-### Starting Server-Side Swift, Ian MacFarlane
+### RxSwift, TBD
 
-> Let's go over server basics, in Swift, using IBM's Kitura framework! We'll set up the server's environment, interface with a database, define routes, and render web pages using Stencil. 
+>  
 
 ### Philly CocoaHeads Podcast Brainstorm, Tarika Chawla
 
