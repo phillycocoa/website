@@ -1,11 +1,11 @@
 ---
 type: page
-title: November Meeting Agenda
+title: December Meeting Agenda
 ---
 
-# November Meeting Agenda
+# December Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, November 9th from 6:30pm - 9:00pm** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [National Mechanics][NationalMechanics] at 22 South 3rd Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, December 14th from 6:30pm - 9:00pm** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [National Mechanics][NationalMechanics] at 22 South 3rd Street.
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
@@ -29,9 +29,9 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ## Presentations
 
-### Starting Server-Side Swift, Ian MacFarlane
+### RxSwift, TBD
 
-> Let's go over server basics, in Swift, using IBM's Kitura framework! We'll set up the server's environment, interface with a database, define routes, and render web pages using Stencil. 
+>  
 
 ### Philly CocoaHeads Podcast Brainstorm, Tarika Chawla
 
