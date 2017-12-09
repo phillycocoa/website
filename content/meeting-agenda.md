@@ -31,12 +31,12 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ### RxSwift, TBD
 
->  
+> Summary TBD.
 
-### Philly CocoaHeads Podcast Brainstorm, Tarika Chawla
+### QA, Omar Antila
 
-> There has been a lot of backchannel chat about doing a podcast. Tarika Chawla will lead a group brainstorm reviewing some ideas.
+> Summary tbd.
 
-### Be Thankful Roundtable!
+### TBD
 
-> We'll close the meeting with an roundtable and give thanks to the pods, libraires, websites, books and other iOS recourses that we've found helpful this past year. Take a few minutes ahead of time and jot down your favorites.
+> Summary TBD.
