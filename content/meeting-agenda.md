@@ -34,6 +34,6 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 > A beginner friendly intro to Reactive Programming through RxSwift. If you're curious about RxSwift or just want to learn about another approach to handling asynchronous code in Swift, come check this out!
 We will explore the basic concepts of Reactive Programming and walk through concrete examples of using RxSwift to simplify networking, auth, and other common issues when building an iOS app.
 
-### Austin Seraphin
+### App Show and Tell - Austin Seraphin
 
 > It has taken three years, but Austin Seraphin has released his first app in the App Store. He has spoken at Philly Cocoa in the past about iOS accessibility and RubyMotion. He will demo the app and share a little about his experience as one of the world's only blind iOS developers.
