@@ -32,7 +32,6 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 ### Reactive Programming - Intro to RxSwift, Xinran Wang
 
 > A beginner friendly intro to Reactive Programming through RxSwift. If you're curious about RxSwift or just want to learn about another approach to handling asynchronous code in Swift, come check this out!
-
 We will explore the basic concepts of Reactive Programming and walk through concrete examples of using RxSwift to simplify networking, auth, and other common issues when building an iOS app.
 
 ### Austin Seraphin
