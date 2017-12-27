@@ -1,11 +1,11 @@
 ---
 type: page
-title: December Meeting Agenda
+title: January Meeting Agenda
 ---
 
-# December Meeting Agenda
+# January Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, December 14th from 6:30pm - 9:00pm** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [National Mechanics][NationalMechanics] at 22 South 3rd Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, January 11th from 6:30pm - 9:00pm** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [National Mechanics][NationalMechanics] at 22 South 3rd Street.
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
@@ -29,11 +29,10 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ## Presentations
 
-### Reactive Programming - Intro to RxSwift, Xinran Wang
+### TBD
 
-> A beginner friendly intro to Reactive Programming through RxSwift. If you're curious about RxSwift or just want to learn about another approach to handling asynchronous code in Swift, come check this out!
-We will explore the basic concepts of Reactive Programming and walk through concrete examples of using RxSwift to simplify networking, auth, and other common issues when building an iOS app.
+> 
 
-### App Show and Tell - Austin Seraphin
+### TBD
 
-> It has taken three years, but Austin Seraphin has released his first app in the App Store. He has spoken at Philly Cocoa in the past about iOS accessibility and RubyMotion. He will demo the app and share a little about his experience as one of the world's only blind iOS developers.
+> 
