@@ -29,9 +29,17 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ## Presentations
 
-### TBD
+### QA Testing - Omar Antila
 
-> 
+Process
+
+When to do QA
+
+What tools to use
+
+Device/OS coverage
+
+Test build distribution
 
 ### TBD
 
