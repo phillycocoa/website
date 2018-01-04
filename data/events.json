@@ -24,8 +24,8 @@
     "book_club": {
       "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/hvpcznyxcbdb/",
       "date": "TBD",
-      //"start_time": "8pm",
-      //"end_time": "9pm",
+      "start_time": "8pm",
+      "end_time": "9pm",
         "location": {
             "name": "Online via GoToMeeting"
         }
