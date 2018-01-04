@@ -23,9 +23,9 @@
     },
     "book_club": {
       "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/hvpcznyxcbdb/",
-      "date": "2018-01-02",
-      "start_time": "8pm",
-      "end_time": "9pm",
+      "date": "TBD",
+      //"start_time": "8pm",
+      //"end_time": "9pm",
         "location": {
             "name": "Online via GoToMeeting"
         }
