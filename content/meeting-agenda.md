@@ -9,7 +9,7 @@ The next [Philly CocoaHeads][PC] meeting will be **Thursday, January 11th from 6
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
-[2nd Story Brewing Co]: http://www.2ndstorybrewing.com
+[2nd Story Brewing Co]:http://www.2ndstorybrewing.com
 
 Please RSVP via Meetup: <http://www.meetup.com/PhillyCocoaHeads/>
 
