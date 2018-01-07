@@ -23,9 +23,6 @@
     },
     "book_club": {
       "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/245715156/",
-      "date": "2017-12-12",
-      "start_time": "8pm",
-      "end_time": "9pm",
         "location": {
             "name": "Online via GoToMeeting"
         }
