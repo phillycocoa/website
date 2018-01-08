@@ -31,16 +31,8 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ### QA Testing - Omar Antila
 
-Process
+> This presentation will be about the importance of QA testing and best practices. It will also cover what developers can do to make testing easier for testers, how to approach OS version coverage, test build distribution, automation as well as present some general tips.
 
-When to do QA
+### Show and Tell: Dividend Calc - Kotaro Fujita
 
-What tools to use
-
-Device/OS coverage
-
-Test build distribution
-
-### TBD
-
-> 
+> Get a behind the scenes perspective of the motivations, decisions, and effort to build an app in one month.
