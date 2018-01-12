@@ -1,11 +1,11 @@
 ---
 type: page
-title: January Meeting Agenda
+title: February Meeting Agenda
 ---
 
-# January Meeting Agenda
+# February Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, January 11th from 6:30pm - 9:00pm** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, February 8th from 6:30pm - 9:00pm** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
@@ -29,10 +29,10 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ## Presentations
 
-### QA Testing - Omar Antila
+### TBD
 
-> This presentation will be about the importance of QA testing and best practices. It will also cover what developers can do to make testing easier for testers, how to approach OS version coverage, test build distribution, automation as well as present some general tips.
+> 
 
-### Show and Tell: Dividend Calc - Kotaro Fujita
+### Show and Tell: TBD
 
-> Get a behind the scenes perspective of the motivations, decisions, and effort to build an app in one month.
+> 
