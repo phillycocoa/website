@@ -31,8 +31,6 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ### TBD
 
-> 
 
 ### Show and Tell: TBD
 
-> 
