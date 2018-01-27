@@ -7,7 +7,7 @@ title: Videos
 
 We record and publish many of our talks from our monthly meetings:
 
-<https://vimeo.com/phillycocoa/>
+<https://www.youtube.com/channel/UC9GrDcblzRBoLfkO886IVWg>
 
 You can also watch these videos on your Apple TV using out custom app:
 
