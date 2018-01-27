@@ -29,7 +29,7 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ## Presentations
 
-### The making of Anchor, a Mac app for instant file sharing: Kostas Nasis kostas@nasis.com
+### The making of Anchor, a Mac app for instant file sharing: Kostas Nasis <kostas@nasis.com>
 Kostas will discuss the making of the Anchor app, a Mac application built with a combination of Electron, VueJS, and native Swift code. This talk will cover the pros and cons of using Electron, the challenges faced, and how to leverage a mix of hybrid and native development to dramatically improve iteration speed and time to market without sacrificing quality.
 
 ### Show and Tell: Edan Lichtenstein <edanl@outlook.com>
