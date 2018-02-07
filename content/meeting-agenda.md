@@ -5,7 +5,7 @@ title: February Meeting Agenda
 
 # February Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Wednesday, February 21st from 6:30pm - 9:00pm** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
+The next [Philly CocoaHeads][PC] meeting will be **TBD** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
