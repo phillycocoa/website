@@ -5,7 +5,7 @@ title: February Meeting Agenda
 
 # February Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Wednesday, February 21st** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, March 8th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
@@ -29,8 +29,7 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ## Presentations
 
-### The making of Anchor, a Mac app for instant file sharing: Kostas Nasis <kostas@nasis.com>
-Kostas will discuss the making of the Anchor app, a Mac application built with a combination of Electron, VueJS, and native Swift code. This talk will cover the pros and cons of using Electron, the challenges faced, and how to leverage a mix of hybrid and native development to dramatically improve iteration speed and time to market without sacrificing quality.
+### TBD
 
-### Show and Tell: Edan Lichtenstein <edanl@outlook.com>
-Edan will give insight into how you can land jobs - basically to not ignore recruiters - and he will share the "luck" he's had twice now with recruiters.  We often discount them and they're a dime a dozen, but its worth it to give each one some time.
+### Show and Tell: TBD
+
