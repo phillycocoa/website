@@ -31,5 +31,6 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ### TBD
 
-### Show and Tell: TBD
+### Show and Tell: Tuckerton Pool by Jack Amoratis
+A look at different paradigms in game control. The talk will also cover what went wrong and how determinative game physics played a role. 
 
