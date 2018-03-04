@@ -3,7 +3,7 @@ type: page
 title: March Meeting Agenda
 ---
 
-# February Meeting Agenda
+# March Meeting Agenda
 
 The next [Philly CocoaHeads][PC] meeting will be **Thursday, March 8th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
 
