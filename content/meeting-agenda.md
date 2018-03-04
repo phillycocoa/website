@@ -1,6 +1,6 @@
 ---
 type: page
-title: February Meeting Agenda
+title: March Meeting Agenda
 ---
 
 # February Meeting Agenda
@@ -29,7 +29,8 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ## Presentations
 
+### Test Driven iOS development: Andy Obusek
+Automated testing tools for iOS have come a long way since the initial release of the iPhone SDK. Learn how to improve your app’s quality by using TDD to build code at various layers of an application. You’ll learn what test driven development is, how it can be used in unit tests to verify simple model objects, code that uses a remote API, and user interface code. As a bonus, you’ll also learn some tricks for writing tests easier.
+
 ### Show and Tell: Tuckerton Pool by Jack Amoratis
 A look at different paradigms in game control. The talk will also cover what went wrong and how determinative game physics played a role. 
-
-### TBD
