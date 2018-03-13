@@ -16,4 +16,4 @@ Sponsorship is offered per month for $200. Should you decide to sponsor you'll g
 
 Payment can be made via check or we can send you a PalPal invoice which can be paid using a credit card.
 
-If you are interested, please reach out to Michael Mayer at <m.mayer6@gmail.com>.
+If you are interested, please contact us at <leadership@phillycocoa.org>.
