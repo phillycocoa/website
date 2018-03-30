@@ -29,6 +29,10 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 
 ## Presentations
 
-### TBD
+### 3 Days to Rethink Slopes for Apple Watch: Joseph Cieplinski <joec@mac.com>
+The talk runs through how I approached an interesting design and code challenge recently to update Slopes for Apple Watch. 
 
-### Show and Tell: TBD
+The talk will cover some fundamental goals presented by an outside UX specialist, which I then was asked to help implement. There were some interesting takeaways from the experience, including analyzing some differences between user experience and user interface design, the unique challenges of building something on a tight deadline, the realities of taking a mockup done on paper and morphing it into a design that worked in practical use, and working to restructure a user interface over a backend that was also in flux at the time. An interesting presenation for folks, especially as they approach working with designers, or if they want to improve their app designs themselves. Or if they are just interested in the Apple Watch in general.
+
+### Show and Tell: Peter Alt
+AWS + iOS 
