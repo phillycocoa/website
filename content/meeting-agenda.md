@@ -31,7 +31,7 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 ### Show and Tell: Peter Alt
 AWS + iOS 
 
-### 3 Days to Rethink Slopes for Apple Watch: Joseph Cieplinski <joec@mac.com>
+### 3 Days to Rework Slopes for Apple Watch: Joseph Cieplinski <joec@mac.com>
 This winter, Curtis Herbert was in the midst of a massive rewrite of the Apple Watch version of his app Slopes. The work was mostly back-end related. There was no planned update for the user interface. Until…
 
 One day, Curtis received an unsolicited drawing from a User Experience expert (who shall remain nameless), suggesting a possible new approach to Slopes’ watch UI that was fairly compelling. It was just a sketch, but once he saw it, the seed was planted.
