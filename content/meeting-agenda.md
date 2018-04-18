@@ -1,11 +1,11 @@
 ---
 type: page
-title: April Meeting Agenda
+title: May Meeting Agenda
 ---
 
-# April Meeting Agenda
+# May Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, April 12th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, May 10th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
@@ -28,18 +28,10 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
 
 ## Presentations
-### Show and Tell: Peter Alt
-AWS + iOS 
+### Show and Tell: TBD
 
-### 3 Days to Rework Slopes for Apple Watch: Joseph Cieplinski <joec@mac.com>
-This winter, Curtis Herbert was in the midst of a massive rewrite of the Apple Watch version of his app Slopes. The work was mostly back-end related. There was no planned update for the user interface. Until…
 
-One day, Curtis received an unsolicited drawing from a User Experience expert (who shall remain nameless), suggesting a possible new approach to Slopes’ watch UI that was fairly compelling. It was just a sketch, but once he saw it, the seed was planted.
+### TBD
 
-There was just one problem: Where to find the time? The big release was on the horizon. The peak season was well underway. Delay was not an option. How could he fit this in?
-
-This is where I came in.
-
-In this talk, I’ll tell the story of how I became involved in helping Curtis with this UI rewrite. We’ll explore the difference between a sketch from a UE expert and an implemented design from a UI expert. The technologies involved in the new watchOS interface. Some of the unique challenges involved with small-screen interface design. And more.
 
 
