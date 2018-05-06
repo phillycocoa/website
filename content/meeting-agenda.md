@@ -28,10 +28,10 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
 
 ## Presentations
-### Show and Tell: TBD
+### Show and Tell: James Corbett
+Project Refit. Developing a better platform to reach the 5 million veterans with no access to mental health care.
 
-
-### TBD
+### Gaming in Mobile (and why you should care): Kotara Fujita 
 
 
 
