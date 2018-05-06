@@ -32,7 +32,7 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 Developing a better platform to reach the 5 million veterans with no access to mental health care.
 
 ### Gaming Development: Kotara Fujita 
-After observing and participating in the local Philadelphia game dev scene, Kotaro Fujita looks at where game development mimics app development and where it takes app development to a whole different level. How it may influence future development styles of coding
+After observing and participating in the local Philadelphia game dev scene, Kotaro Fujita looks at where game development mimics app development and where it takes app development to a whole different level. How it may influence future development styles of coding.
 
 
 
