@@ -1,0 +1,22 @@
+version: 2
+jobs:
+  build:
+    environment:
+      HUGO_BUILD_DIR: ~/project/public
+    docker:
+      - image: felicianotech/docker-hugo:0.40
+    working_directory: ~/project
+    steps:
+      - checkout
+      - run:
+          name: "Run Hugo"
+          command: HUGO_ENV=production hugo --theme=phillycocoaheadtheme -v -d $HUGO_BUILD_DIR
+      - run:
+          name: "Install PIP"
+          command: apk add --update python python-dev py-pip
+      - run:
+          name: "Install AWS"
+          command: pip install awscli
+      - run:
+          name: "Deploy to S3 if tests pass and branch is Master"
+          command: aws s3 sync $HUGO_BUILD_DIR s3://phillycocoa.org
