@@ -1,11 +1,11 @@
 ---
 type: page
-title: May Meeting Agenda
+title: June Meeting Agenda
 ---
 
-# May Meeting Agenda
+# June Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, May 10th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, June 14th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
@@ -28,11 +28,7 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
 
 ## Presentations
-### Show and Tell: Project Refit - James Corbett
-Developing a better platform to reach the 5 million veterans with no access to mental health care.
-
-### Gaming Development: Kotara Fujita 
-After observing and participating in the local Philadelphia game dev scene, Kotaro Fujita looks at where game development mimics app development and where it takes app development to a whole different level. How it may influence future development styles of coding.
+TBD
 
 
 
