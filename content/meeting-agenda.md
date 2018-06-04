@@ -28,7 +28,11 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
 
 ## Presentations
-TBD
+### From Apps to dApps: What Mobile Devs Should Know About Blockchain: Ben DiFrancesco 
+You've heard the hype around bitcoin, cryptocurrencies, and blockchain - but what is this new technology really about? What should a developer, specifically a mobile developer, know about blockchain. How might it effect our work as mobile devs in the future. In this talk, we'll break down blockchain basics, assess the current state of the tech, and explore the future possibilities from the perspective of a mobile engineer.
+
+### Show and Tell: Curtis Herbert
+SwiftLint
 
 
 
