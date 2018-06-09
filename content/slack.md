@@ -17,4 +17,4 @@ To get an invite to the Philly CocoaHead Slack use this form:
 <script async defer src="https://phillycocoa-slackin.herokuapp.com/slackin.js?large"></script>
 </div>
 
-If you have any other questions or consers, [let us know](/about).
+If you have any other questions or concerns, [let us know](/about).
