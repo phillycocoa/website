@@ -32,7 +32,7 @@ For folks who drive in and need parking the closest garage is the Bourse Garage 
 You've heard the hype around bitcoin, cryptocurrencies, and blockchain - but what is this new technology really about? What should a developer, specifically a mobile developer, know about blockchain. How might it effect our work as mobile devs in the future. In this talk, we'll break down blockchain basics, assess the current state of the tech, and explore the future possibilities from the perspective of a mobile engineer.
 
 ### Show and Tell: Curtis Herbert
-SwiftLint
+If you've ever used the Analyze build command before, you're familiar with the idea of linters: a set of tools to automatically help you flag issues within your code. SwiftLint lets you take this a bit further and enforce style guidelines and treat violations of them as warnings or errors. Curtis will run through his experience setting up SwiftLint on a code base that's been around since Swift 1.1.
 
 
 
