@@ -32,4 +32,8 @@ When doors open we kick off the meeting with our social hour. Don't skip out on 
 [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
 
 ## Presentations
-### TBD
+### Online privacy and data integrity: Stephan Matanovic
+Have you heard about GDPR, the CLOUD Act, or SESTA/FOSTA? Confused by what they are, or how they could affect your business? In the last few months, new regulations have been introduced that impact just about everybody who does business on the internet. Stephan Matanovic - a technology and business lawyer - will lead an exploration of these three new regulatory frameworks and how they will directly impact life on the internet for individuals and businesses.
+
+### Show and Tell: Justin Katzwhite
+NFC based, Cloud powered Restaurant POS. Because the full realization of the service is any kind of device ( iOS /Android/Web) being able to communicate with a cloud network, I need the other half of the smartphone market (iOS). I developed the Android version and it is commercially available (functional, no errors, navigable interface, maybe not the best to look at). I'm now looking to work with someone that can help with iOS.
