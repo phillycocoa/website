@@ -1,4 +1,4 @@
----
+/*---
 date: "2017-04-08T00:12:00-04:00"
 draft: false
 title: "360iDev Conference: Free Ticket Raffle"
@@ -14,4 +14,4 @@ The prize is the conference ticket only. You are still responsible for your own 
 
 Philly CocoaHeads also requires that upon your return you do a short talk about something you learned at the conference.
 
-If you are interested and available to attend, please fill out the following form. Winners will be chosen at the April 22nd Side Project Saturday event. You do not need to be present to win.
+If you are interested and available to attend, please fill out the following form. Winners will be chosen at the April 22nd Side Project Saturday event. You do not need to be present to win.*/
