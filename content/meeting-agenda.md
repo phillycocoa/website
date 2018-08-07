@@ -33,6 +33,6 @@ When doors open we kick off the meeting with our social hour. Don't skip out on 
 
 ## Presentations
 ### Balancing native and cross platform code for your next iOS app
-Cross platform libraries have a long history of trading user experience for speed of development across platforms. React Native promises the same. However using native modules in react native gives us the option of using platform specific ui in your application. In this talk we’ll talk about the advantages and challenges of moving the generic business logic of your application to React Native while still keeping the user experience native.
+Cross platform libraries have a long history of trading user experience for speed of development across platforms. React Native promises the same. However using native modules in React Native gives us the option of using platform specific UI in your application. In this talk we’ll discuss the advantages and challenges of moving the generic business logic of your application to React Native while still keeping the user experience native.
 
 ### Show and Tell: Kotaro Fujita
