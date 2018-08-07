@@ -32,7 +32,7 @@ When doors open we kick off the meeting with our social hour. Don't skip out on 
 [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
 
 ## Presentations
-### Balancing native and cross platform code for your next iOS app
+### Balancing native and cross platform code for your next iOS app: Arpit Mathur
 Cross platform libraries have a long history of trading user experience for speed of development across platforms. React Native promises the same. However using native modules in React Native gives us the option of using platform specific UI in your application. In this talk we’ll discuss the advantages and challenges of moving the generic business logic of your application to React Native while still keeping the user experience native.
 
 ### Show and Tell: Kotaro Fujita
