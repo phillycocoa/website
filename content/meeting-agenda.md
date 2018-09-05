@@ -32,5 +32,5 @@ When the doors open we kick off the meeting with our social hour. Don't skip out
 [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
 
 ## Presentations
-### Automating App Store Screenshots: Russ Shanahan
+### Automating App Store Screenshots: Russ Shanahan <russshanahan@gmail.com>
 How you can use a single automated shell script to update your screenshots, re-frame them into device images on beautiful backdrops, add marketing text, and upload them to the App Store Connect. I’ll demonstrate how I delegate all the effort to my computer to refresh Happy Scale’s screenshots for 9 localizations and 7 screen sizes.
