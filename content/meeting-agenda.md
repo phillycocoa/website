@@ -35,4 +35,4 @@ When the doors open we kick off the meeting with our social hour. Don't skip out
 ### Automating App Store Screenshots: Russ Shanahan <russshanahan@gmail.com>
 How you can use a single automated shell script to update your screenshots, re-frame them into device images on beautiful backdrops, add marketing text, and upload them to the App Store Connect. I’ll demonstrate how I delegate all the effort to my computer to refresh Happy Scale’s screenshots for 9 localizations and 7 screen sizes.
 
-### Show & Tell
+### Show & Tell: Richard Boutwell
