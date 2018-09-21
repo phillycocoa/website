@@ -1,11 +1,11 @@
 ---
 type: page
-title: September Meeting Agenda
+title: October Meeting Agenda
 ---
 
-# September Meeting Agenda
+# October Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, September 13th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, October 11th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
@@ -32,7 +32,3 @@ When the doors open we kick off the meeting with our social hour. Don't skip out
 [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
 
 ## Presentations
-### Automating App Store Screenshots: Russ Shanahan <russshanahan@gmail.com>
-How you can use a single automated shell script to update your screenshots, re-frame them into device images on beautiful backdrops, add marketing text, and upload them to the App Store Connect. I’ll demonstrate how I delegate all the effort to my computer to refresh Happy Scale’s screenshots for 9 localizations and 7 screen sizes.
-
-### Show & Tell: Richard Boutwell
