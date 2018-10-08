@@ -34,3 +34,5 @@ When the doors open we kick off the meeting with our social hour. Don't skip out
 ## Presentations
 ### Show and Tell: Logging in Production - Curtis Herbert
 Debugging issues with your app once it hits the App Store can be ... fun ... sometimes. That dreaded "it doesn't work" email from a customer, in which they provide no useful information and there's no crash log to help you. Curtis is going to walk through a logging framework, CocoaLumberjack, and a few techniques he's come up with, to make his life debugging customer issues much less painful.
+
+### Round table on iOS12
