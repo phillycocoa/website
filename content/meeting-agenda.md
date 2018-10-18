@@ -1,11 +1,11 @@
 ---
 type: page
-title: October Meeting Agenda
+title: November Meeting Agenda
 ---
 
-# October Meeting Agenda
+# November Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, October 11th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, November 8th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
@@ -23,7 +23,7 @@ We meet out of <a href="https://www.indyhall.org">Indy Hall</a>, a co-working co
 <p><img src="/images/agenda.png" width="900px"/></p>
 
 ## Social Hour
-When the doors open we kick off the meeting with our social hour. Don't skip out on this - it's the perfect time to say hi to new members, hack on a side project, and pick each others' brains about problems you're running into. Bring your laptop and take advangage of our helpful community to push through that problem you just can't quite seem to Stack Overflow your way out of. The outside doors are locked by 7:00PM, so come join us for the Social Hour before the main meeting begins.
+When the doors open we kick off the meeting with our social hour. Don't skip out on this - it's the perfect time to say hi to new members, hack on a side project, and pick each others' brains about problems you're running into. Bring your laptop and take advangage of our helpful community to push through that problem you just can't quite seem to Stack Overflow your way out of. The outside doors are locked by 7:00PM, so come join us for the Social Hour before the Main Meeting begins.
 
 ## Sponsor: Twilio
 
@@ -32,7 +32,4 @@ When the doors open we kick off the meeting with our social hour. Don't skip out
 [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
 
 ## Presentations
-### Show and Tell: Logging in Production - Curtis Herbert
-Debugging issues with your app once it hits the App Store can be ... fun ... sometimes. That dreaded "it doesn't work" email from a customer, in which they provide no useful information and there's no crash log to help you. Curtis is going to walk through a logging framework, CocoaLumberjack, and a few techniques he's come up with, to make his life debugging customer issues much less painful.
-
-### Round table on iOS12
+### TBD
