@@ -32,4 +32,5 @@ When the doors open we kick off the meeting with our social hour. Don't skip out
 [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
 
 ## Presentations
-### TBD
+### Building a iPad exclusive app with Pencil support: Kotaro Fujita
+Exploring an idea about making an animation tool will take time. The first step is making a decent drawing engine. I explore UITouch with Pencil with you, my fellow Cocoahead friends. We also explore initial wireframes and ideas behind this app. You can help affect the direction of this idea.
