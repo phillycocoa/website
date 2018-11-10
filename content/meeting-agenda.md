@@ -29,7 +29,7 @@ Get in touch with the leadership team at <leadership@phillycocoa.org> to propose
 
 ## Post-Meeting Drinks
 
-After meeting drinks will commence at 2nd Story Brewing Co at 117 Chestnut Street.
+After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
 
 ## Sponsor: Twilio
 
