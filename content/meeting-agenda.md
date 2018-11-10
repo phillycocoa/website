@@ -5,9 +5,11 @@ title: December Meeting Agenda
 
 # December Meeting Agenda
 
-Philly CocoaHeads always meets on the second Thursday of every month at IndyHall, located at 4th and Market (the 3rd floor of the Colonial Penn Building).
+Philly CocoaHeads always meets on the second Thursday of every month at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building).
 
 Please RSVP via Meetup <http://www.meetup.com/PhillyCocoaHeads/> so we can order the appropriate amount of pizza and hoagies for our social hour!
+
+[IndyHall]:https://www.indyhall.org/
 
 ## Before the Meeting
 We meet out of <a href="https://www.indyhall.org">Indy Hall</a>, a co-working community in Old City. They've extended a discount to our group to come in early and work out of Indy Hall for the day. When you get there, mention CocoaHeads and you'll recieve $10 off the normal drop-in rate (you'll get in for $20). Many CocoaHeads members are also Indy Hall members, so you'll see some of us around. Avoid the rush hour commute and join us!
