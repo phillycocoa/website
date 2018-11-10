@@ -1,11 +1,11 @@
 ---
 type: page
-title: November Meeting Agenda
+title: December Meeting Agenda
 ---
 
-# November Meeting Agenda
+# December Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, November 8th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
+The next [Philly CocoaHeads][PC] meeting will be **Thursday, December 13th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
 
 [PC]:http://phillycocoa.org
 [IndyHall]:https://www.indyhall.org/
@@ -38,5 +38,4 @@ When the doors open we kick off the meeting with our social hour. Don't skip out
 For more information, visit [The Meet group.com](https://www.themeetgroup.com), and follow us on Facebook, Twitter or LinkedIn.
 
 ## Presentations
-### Building a iPad exclusive app with Pencil support: Kotaro Fujita
-Exploring an idea about making an animation tool will take time. The first step is making a decent drawing engine. I explore UITouch with Pencil with you, my fellow Cocoahead friends. We also explore initial wireframes and ideas behind this app. You can help affect the direction of this idea.
+
