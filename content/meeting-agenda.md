@@ -31,6 +31,8 @@ Get in touch with the leadership team at <leadership@phillycocoa.org> to propose
 
 After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
 
+[2nd Story Brewing Co]:http://www.2ndstorybrewing.com
+
 ## Sponsor: Twilio
 
 > Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application. Twilio is a software and cloud-based communications platform that enables the rapid build and deploy of powerful, flexible business communications solutions.
