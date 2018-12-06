@@ -13,8 +13,5 @@ To get an invite to the Philly CocoaHead Slack use this form:
 
 [Philly CocoaHead Slack] (https://join.slack.com/t/phillycocoa/shared_invite/enQtNDk1NzQ2MjExMDI1LTg4OTI3NjdhZGIwYmQ0NWU0OThiNGEzNTliZDlkNjJmNzVmMWFkYjM4MTg3MjNjOTIxZDA3OWQ0YjA4NjIzNGE)
 
-<div class="textwidget">
-<script async defer src="https://phillycocoa-slackin.herokuapp.com/slackin.js?large"></script>
-</div>
 
 If you have any other questions or concerns, [let us know](/about).
