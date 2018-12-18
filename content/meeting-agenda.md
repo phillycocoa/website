@@ -19,15 +19,6 @@ We meet out of <a href="https://www.indyhall.org">Indy Hall</a>, a co-working co
 ## Social Hour
 When the doors open we kick off the meeting with our social hour. Don't skip out on this - it's the perfect time to say hi to new members, hack on a side project, and pick each others' brains about problems you're running into. Bring your laptop and take advangage of our helpful community to push through that problem you just can't quite seem to Stack Overflow your way out of. The outside doors are locked by 7:00PM, so come join us for the Social Hour before the Main Meeting begins.
 
-## Sponsor: Twilio
-
-> Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application. Twilio is a software and cloud-based communications platform that enables the rapid build and deploy of powerful, flexible business communications solutions.
-
-[Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
-
-## Social Hour
-When the doors open we kick off the meeting with our social hour. Don't skip out on this - it's the perfect time to say hi to new members, hack on a side project, and pick each others' brains about problems you're running into. Bring your laptop and take advangage of our helpful community to push through that problem you just can't quite seem to Stack Overflow your way out of. The outside doors are locked by 7:00PM, so come join us for the Social Hour before the Main Meeting begins.
-
 ## Formal Meeting
 
 Our meetings are a mix of formal presentations and show-and-tells. We welcome talk proposals of all skill level, and all speaker experience level.
