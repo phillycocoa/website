@@ -30,10 +30,9 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
   <ol class="info">
   <li class="name">Curtis Herbert</li>
   <li class="twitter"><a href="http://twitter.com/parrots">@parrots</a></li>
-  <li class="responsibilities">(Board Member / Main Meetings / Videos)</li>
+  <li class="responsibilities">(Board / Main Meetings / Videos)</li>
   </ol>
 </li>
-
 
 <li>
   <img src="https://www.gravatar.com/avatar/d57cc2039356f01eae1c76616971ebe4?s=150" alt="Tarika Chawla Profile Photo">
@@ -49,7 +48,7 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
   <ol class="info">
   <li class="name">Stephen Tolton</li>
   <li class="twitter"><a href="http://twitter.com/stolton">@stolton</a></li>
-  <li class="responsibilities">(Board Member / Side Project Saturdays / Podcast)</li>
+  <li class="responsibilities">(Board / Side Project Saturdays / Podcast)</li>
   </ol>
 </li>
 
@@ -58,7 +57,7 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
   <ol class="info">
   <li class="name">Kotaro Fujita</li>
   <li class="twitter"><a href="http://twitter.com/wild37">@wild37</a></li>
-  <li class="responsibilities">(Board Member / Main Meeting Greeter / Twitter / Podcast)</li>
+  <li class="responsibilities">(Board / Main Meeting Greeter / Twitter / Podcast)</li>
   </ol>
 </li>
 
