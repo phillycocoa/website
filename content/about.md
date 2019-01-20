@@ -34,6 +34,7 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
   </ol>
 </li>
 
+
 <li>
   <img src="https://www.gravatar.com/avatar/d57cc2039356f01eae1c76616971ebe4?s=150" alt="Tarika Chawla Profile Photo">
   <ol class="info">
