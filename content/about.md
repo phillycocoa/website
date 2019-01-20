@@ -30,7 +30,7 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
   <ol class="info">
   <li class="name">Curtis Herbert</li>
   <li class="twitter"><a href="http://twitter.com/parrots">@parrots</a></li>
-  <li class="responsibilities">(Board Member / Main Meetings / Videos)</li>
+  <li class="responsibilities">(Board Member / Main Meetings /<br> Videos)</li>
   </ol>
 </li>
 
