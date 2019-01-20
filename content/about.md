@@ -57,7 +57,7 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
   <ol class="info">
   <li class="name">Kotaro Fujita</li>
   <li class="twitter"><a href="http://twitter.com/wild37">@wild37</a></li>
-  <li class="responsibilities">(Board Member / Main Meeting Greeter <br>/ Twitter / Podcast)</li>
+  <li class="responsibilities">(Board Member / Main Meeting Greeter /<br> Twitter / Podcast)</li>
   </ol>
 </li>
 
