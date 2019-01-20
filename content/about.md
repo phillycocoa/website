@@ -48,7 +48,7 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
   <ol class="info">
   <li class="name">Stephen Tolton</li>
   <li class="twitter"><a href="http://twitter.com/stolton">@stolton</a></li>
-  <li class="responsibilities">(Board Member / Side Project Saturdays <br>/ Podcast)</li>
+  <li class="responsibilities">(Board Member / Side Project <br>Saturdays / Podcast)</li>
   </ol>
 </li>
 
