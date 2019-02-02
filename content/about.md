@@ -34,14 +34,7 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
   </ol>
 </li>
 
-<li>
-  <img src="https://www.gravatar.com/avatar/d57cc2039356f01eae1c76616971ebe4?s=150" alt="Tarika Chawla Profile Photo">
-  <ol class="info">
-  <li class="name">Tarika Chawla</li>
-  <li class="twitter"><a href="http://twitter.com/tarikachawla">@tarikachawla</a></li>
-  <li class="responsibilities">(Speaker Organizer / Podcast)</li>
-  </ol>
-</li>
+
 
 <li>
   <img src="https://www.gravatar.com/avatar/b05e7cfb32dbd2c3ed159a1ac1e15165?s=150" alt="Stephen Tolton Profile Photo">
