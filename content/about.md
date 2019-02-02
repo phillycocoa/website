@@ -55,7 +55,7 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
 </li>
 
 <li>
-  <img src="https://github.com/phillycocoa/website/blob/master/static/images/matt_profile_pic_sized.png" alt="Matthew Toto Profile Photo">
+  <img src="https://github.com/phillycocoa/website/blob/master/static/images/matt_profile_pic_sized.jpg" alt="Matthew Toto Profile Photo">
   <ol class="info">
   <li class="name">Matthew Toto</li>
   <li class="responsibilities">(Book Club)</li>
