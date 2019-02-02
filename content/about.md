@@ -62,11 +62,10 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
 </li>
 
 <li>
-  <img src="https://www.gravatar.com/avatar/d745cdc85e6df10fd8691b06ff840e5f?s=150" alt="Michael Mayer Profile Photo">
+  <img src="{{ .Site.BaseURL }}images/matt_profile_pic.jpg" alt="Matthew Toto Profile Photo">
   <ol class="info">
-  <li class="name">Michael Mayer</li>
-  <li class="twitter"><a href="http://twitter.com/jm2software">@jm2software</a></li>
-  <li class="responsibilities">(Book Club / Treasurer)</li>
+  <li class="name">Matthew Toto</li>
+  <li class="responsibilities">(Book Club)</li>
   </ol>
 </li>
 
@@ -96,6 +95,7 @@ We'd like to also thank the following people for their past efforts helping run 
 * Mike Deaven, [@mikedeaven](https://twitter.com/mikedeaven)
 * Tom Piarulli, [@tompark_IO](https://twitter.com/tompark_IO)
 * Mike Zornek, [Website](http://mikezornek.com)
+* Michael Mayer, [@jm2software](http://twitter.com/jm2software)
 
 ## Blog Tools
 
