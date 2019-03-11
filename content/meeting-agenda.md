@@ -26,9 +26,11 @@ We meet out of <a href="https://www.indyhall.org">Indy Hall</a>, a co-working co
 When the doors open we kick off the meeting with our social hour. Don't skip out on this - it's the perfect time to say hi to new members, hack on a side project, and pick each others' brains about problems you're running into. Bring your laptop and take advangage of our helpful community to push through that problem you just can't quite seem to Stack Overflow your way out of. The outside doors are locked by 7:00PM, so come join us for the Social Hour before the Main Meeting begins.
 
 ## Presentations
-### Create ML/CoreML: Kotaro Fujita
+### Show and Tell: Create ML/CoreML - Kotaro Fujita
 Machine learning is a subset of artificial intelligence in the field of computer science that often uses statistical techniques to give computers the ability to “learn” with data, without being explicitly programmed. Object detection and Natural Language Process are just a basic example of what you can do with the tech. Apple came out with 2 frameworks to help you add Machine Learning into your apps. I will have one demo of how to create your own special data model using Create ML. Another demo will take a pre-existing open data model to do a simple image recognition test.
 
+### Dynamic Type - Curtis Herbert
+Curtis just spent the last two weeks updating his app Slopes to support Dynamic Type. You might have heard of UIFontMetrics, or you might not have. But you probably didn't sweat the pixels to make sure you top and bottom margins were baseline-height appropriate ;). He'll share how he went about adapting to various sizes within dynamic type, and tricks to better mimic the behavior of built-in UI classes (like TableViews).
 
 ## Sponsor: Twilio
 
