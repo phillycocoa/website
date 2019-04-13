@@ -5,10 +5,9 @@ title: May Meeting Agenda
 
 # May Meeting Agenda
 
-[Philly CocoaHeads][PC] always meets on the second Thursday of every month at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building).
+[Philly CocoaHeads][PC] always meets on the second Thursday of every month at IndyHall, located at 4th and Market (the 3rd floor of the Colonial Penn Building).
 
 [PC]:http://phillycocoa.org
-[IndyHall]:https://www.indyhall.org/
 [2nd Story Brewing Co]:http://www.2ndstorybrewing.com
 
 Please RSVP via Meetup <http://www.meetup.com/PhillyCocoaHeads/> so we can order the appropriate amount of pizza and hoagies for our social hour!
