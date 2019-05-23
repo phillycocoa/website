@@ -1,6 +1,6 @@
 ---
 date: "2017-05-27T00:12:00-04:00"
-draft: false
+draft: true
 title: "Main Meeting Moving Back to IndyHall in July"
 ---
 
