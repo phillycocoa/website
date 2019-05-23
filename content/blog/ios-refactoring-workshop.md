@@ -1,6 +1,6 @@
 ---
 date: "2017-06-14T00:12:00-04:00"
-draft: false
+draft: true
 title: "Half Day iOS Refactoring Workshop in July"
 ---
 
