@@ -1,15 +1,13 @@
 ---
-date: "2017-05-09T00:12:00-04:00"
+date: "2019-05-23T00:12:00-04:00"
 draft: false
-title: "WWDC 2017 Stream Event"
+title: "WWDC 2019 Viewing Event"
 ---
 
-Similar to past years we'll be holding a local WWDC event for those of us who are not headed out west. 
+We'll be holding a local WWDC event for those of us who are not headed out west. 
 
-On the opening Monday of the conference, June 5th, we'll meetup at IndyHall. 
+Join us from 1:00 to 3:00 PM in the Gallery of IndyHall for a live viewing of Apple's Keynote address for WWDC, the annual Apple Developer conference. 
 
-From 12:30-3pm we'll stream the main Keynote, and from 5-6:30pm we'll show the Developer State of the Union. Come and go as you need.
+Attendance to this event is free, but if you plan to come earlier or stay longer you will need to buying a day pass through Indy Hall to attend. We do have a deal for PhillyCocoa members. Mention you're here with CocoaHeads and you'll get $10 off the day drop-in rate.
 
-In between, feel free to mingle with your fellow Philly CocoaHeads and IndyHall members. We'll have some snacks for the first half of the day and will order some pizzas for the second half. If you'd like to bring a snack, say so on the [main meetup event page](https://www.meetup.com/PhillyCocoaHeads/events/239280212/).
-
-PS: We've also moved our regularly scheduled monthly meeting to be after WWDC, [Thursday, June 15th](https://www.meetup.com/PhillyCocoaHeads/events/239190782/).
+Our monthly meeting will be on [Thursday, June 13th](https://www.meetup.com/PhillyCocoaHeads/events/kvsmnqyzjbrb/).
