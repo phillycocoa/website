@@ -6,7 +6,7 @@ title: "WWDC 2019 Viewing Event"
 
 We'll be holding a local WWDC event for those of us who are not headed out west. 
 
-Join us from 1:00 to 3:00 PM in the Gallery of IndyHall for a live viewing of Apple's Keynote address for WWDC, the annual Apple Developer conference. 
+[Join us] (https://www.meetup.com/PhillyCocoaHeads/events/261332359/?rv=me2&_xtd=gatlbWFpbF9jbGlja9oAJDNjYjViNjZiLTU4MzQtNDcxMi05YWE2LTYyZmRiODMyYzU2Zg&_af=event&_af_eid=261332359) from 1:00 to 3:00 PM in the Gallery of IndyHall for a live viewing of Apple's Keynote address for WWDC, the annual Apple Developer conference. 
 
 Attendance to this event is free, but if you plan to come earlier or stay longer you will need to buying a day pass through Indy Hall to attend. We do have a deal for PhillyCocoa members. Mention you're here with CocoaHeads and you'll get $10 off the day drop-in rate.
 
