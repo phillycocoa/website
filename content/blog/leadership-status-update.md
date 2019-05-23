@@ -1,6 +1,6 @@
 ---
 date: "2017-10-31T00:12:00-04:00"
-draft: false
+draft: true
 title: "Leadership Status Update"
 ---
 
