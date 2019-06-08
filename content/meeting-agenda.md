@@ -28,15 +28,21 @@ When the doors open we kick off the meeting with our social hour. Don't skip out
 ## Presentations
 ### Show and Tell: Downlink - Anthony Colangelo
 Anthony gives us a demo of a new Mac app he's built:
+
 "Watch sunlight and weather patterns move across Earth throughout the day, and bask in the glory of our blue marble in real time.
+
 Every 20 minutes (or every hour, you pick), Downlink updates your desktop background with the newest images of Earth.
+
 Choose from 8 different views of Earth, including stunning full disk images from 3 different geostationary satellites."
 https://itunes.apple.com/us/app/downlink/id1454269192?mt=12
+
 
 ### Show and Tell: Miracle Messages: Volunteering - Edan Lichtenstein
 A volunteer built app for volunteers to help reunite homeless individuals with their loved ones.
 https://itunes.apple.com/us/app/miracle-messages-volunteering/id1440550552?mt=8
+
 Edan will talk about the purpose of the app, the way it was built, coordinating people across the country, some of the challenges and then talk about the code base - “coordinator pattern” and his main contribution which was the timer and the audio recording.
+
 
 ### WWDC Retrospective Round Table
 Pumped for all the cool stuff that's coming out of WWDC 2019? Excited about SwiftUI? Intrigued by ARKit3?
