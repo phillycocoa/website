@@ -4,7 +4,8 @@ draft: false
 title: "Side Project Saturday is at the new Promptworks location"
 ---
 
-Side Project Saturday is still being sponsored by Propmptworks, but the location has moved to 123 S Broad St, Ste 2400.
+Side Project Saturday is still being sponsored by Promptworks, but the location has moved to 123 S Broad St (the corner of Broad and Sansom), Suite 2400.
+
 Side Project Satruday is an opportunity to work on your iOS/Mac projects in a group setting. It's a great chance to get help 
 with your app, share your ideas, and socialize with other developers! Beginners are always welcome!
 
