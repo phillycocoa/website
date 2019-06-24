@@ -1,9 +1,11 @@
-date	draft	title
-2017-05-27T00:12:00-04:00
-true
+---
+date:	"2019-06-23T00:12:00-04:00"
+draft: true	
+title: "Side Project Saturday is at the new Promptworks location"
+---
 
-Side Project Saturday is at the new Promptworks location
-Side Project Saturday is an opportunity to work on your iOS/Mac projects in a group setting. It's a great chance to get help 
+Side Project Saturday is still being sponsored by Propmptworks, but the location has moved to 123 S Broad St, Ste 2400.
+Side Project Satruday is an opportunity to work on your iOS/Mac projects in a group setting. It's a great chance to get help 
 with your app, share your ideas, and socialize with other developers! Beginners are always welcome!
 
 # New Rules
