@@ -31,7 +31,7 @@ A friend of mine started a programming book club, and our first book is Jamis Bu
 
 https://github.com/waltman/MazeDraw
 
-### Show and Tell: Road to iOS13: Next Gen UI Design with SwiftUI/Combine - Kotaro
+### Show and Tell: Road to iOS13: Next Gen UI Design with SwiftUI/Combine - Kotaro Fujita
 Making very sleek and amazing UI layouts and animations use to involve a lot of long winded code and state management. SwiftUI/Combine now gives us so much power with so little code. You will be see apps with way more compelling interactions and animations.
 
 We are going to create an amazing app in 20 mins with slick gestures and animations. By the end of this show-and-tell, you will realize that we are about to enter a new age of app UI/UX.
