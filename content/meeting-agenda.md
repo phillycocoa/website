@@ -36,6 +36,11 @@ Making very sleek and amazing UI layouts and animations use to involve a lot of 
 
 We are going to create an amazing app in 20 mins with slick gestures and animations. By the end of this show-and-tell, you will realize that we are about to enter a new age of app UI/UX.
 
+### Show and Tell: Road to iOS13: PencilKit - Kotaro Fujita
+PencilKit is a framework that allows you to instantly add pencil support to your app. You may wonder why you might need/want something like this and Kotaro will try to provide some compelling use cases.
+
+Get an in-depth look at this new framework that gives you easy access to the note taking tools for your app.
+
 ## Sponsor: Twilio
 
 > Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application. Twilio is a software and cloud-based communications platform that enables the rapid build and deploy of powerful, flexible business communications solutions.
