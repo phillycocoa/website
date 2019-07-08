@@ -46,9 +46,3 @@ Get an in-depth look at this new framework that gives you easy access to the not
 > Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application. Twilio is a software and cloud-based communications platform that enables the rapid build and deploy of powerful, flexible business communications solutions.
 
 [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
-
-## Sponsor: The Meet Group
-
-> The Meet Group (NASDAQ: MEET) is a portfolio of mobile social entertainment apps designed to meet the universal need for human connection. We leverage a powerful live-streaming video platform, empowering our global community to forge meaningful connections. Our primary apps, MeetMe®, LOVOO®, Skout®, and Tagged®, entertain millions of mobile daily active users, generating untold numbers of casual chats, friendships, dates, and marriages. Our apps, available on iPhone, iPad, and Android in multiple languages, combine product innovation with sophisticated data science to both entertain and connect our audience. The Meet Group has a diversified revenue mix consisting of in-app purchases, subscription, and advertising, and we have offices in New Hope, Philadelphia, San Francisco, Dresden, and Berlin. 
-
-For more information, visit [The Meet group.com](https://www.themeetgroup.com), and follow us on Facebook, Twitter or LinkedIn.
