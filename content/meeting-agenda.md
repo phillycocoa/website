@@ -33,6 +33,11 @@ Kenny Ho will demo his very first published recipe app called CookAList, his rec
 Download it here for free:
 https://appstore.com/cookalist
 
+### Show and Tell: Road to iOS13: Swift Package Management by Kotaro Fujita
+If you ever had to deal with third party package managers like CocoaPods and Carthage, both have their pros and cons. Swift Package Manager (PM) is a first party solution that's been around for a while and is now integrated with Xcode 11.
+
+What is Swift PM and why would you want to use it? What problem does it solve? How do you install and consume it? How do you make one?
+
 ## Sponsor: Twilio
 
 > Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application. Twilio is a software and cloud-based communications platform that enables the rapid build and deploy of powerful, flexible business communications solutions.
