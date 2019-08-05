@@ -33,10 +33,13 @@ Kenny Ho will demo his very first published recipe app called CookAList, his rec
 Download it here for free:
 https://appstore.com/cookalist
 
-### Show and Tell: Road to iOS13: Swift Package Management by Kotaro Fujita
-If you ever had to deal with third party package managers like CocoaPods and Carthage, both have their pros and cons. Swift Package Manager (PM) is a first party solution that's been around for a while and is now integrated with Xcode 11.
+### Show and Tell: "How to Make Sketch Not Suck" by Mira Violet
+Mira is a UI/UX consultant and a big time user of Sketch, a mac illustration software that you will use a lot to make icons, wireframes, and even illustrations (think a lightweight version of Adobe Illustrator). This product is used a lot by designers and developers alike.
 
-What is Swift PM and why would you want to use it? What problem does it solve? How do you install and consume it? How do you make one?
+She will show off a few plug-ins, cool tricks, and suggestions to improve your workflow.
+
+### Show and Tell: Road to iOS13: Dark Mode by Kotaro Fujita
+Preparing your iOS app for Dark Mode is an interesting path. I will showcase some basics to being your journey.
 
 ## Sponsor: Twilio
 
