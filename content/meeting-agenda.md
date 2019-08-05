@@ -27,18 +27,18 @@ We meet out of <a href="https://www.indyhall.org">Indy Hall</a>, a co-working co
 When the doors open we kick off the meeting with our social hour. Don't skip out on this - it's the perfect time to say hi to new members, hack on a side project, and pick each others' brains about problems you're running into. Bring your laptop and take advantage of our helpful community to push through that problem you just can't quite seem to Stack Overflow your way out of. The outside doors are locked by 7:00PM, so come join us for the Social Hour before the Main Meeting begins.
 
 ## Presentations
-### Show and Tell: CookAList by Kenny Ho
+### Show and Tell: CookAList - Kenny Ho
 Kenny Ho will demo his very first published recipe app called CookAList, his recipe app. He will talk about his process to making it, lessons along the way, and possible future updates.
 
 Download it here for free:
 https://appstore.com/cookalist
 
-### Show and Tell: "How to Make Sketch Not Suck" by Mira Violet
+### Show and Tell: "How to Make Sketch Not Suck" - Mira Violet
 Mira is a UI/UX consultant and a big time user of Sketch, a mac illustration software that you will use a lot to make icons, wireframes, and even illustrations (think a lightweight version of Adobe Illustrator). This product is used a lot by designers and developers alike.
 
 She will show off a few plug-ins, cool tricks, and suggestions to improve your workflow.
 
-### Show and Tell: Road to iOS13: Dark Mode by Kotaro Fujita
+### Show and Tell: Road to iOS13: Dark Mode - Kotaro Fujita
 Preparing your iOS app for Dark Mode is an interesting path. I will showcase some basics to being your journey.
 
 ## Sponsor: Twilio
