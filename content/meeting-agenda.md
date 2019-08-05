@@ -38,8 +38,8 @@ Mira is a UI/UX consultant and a big time user of Sketch, a mac illustration sof
 
 She will show off a few plug-ins, cool tricks, and suggestions to improve your workflow.
 
-### Show and Tell: Road to iOS13: Dark Mode - Kotaro Fujita
-Preparing your iOS app for Dark Mode is an interesting path. I will showcase some basics to being your journey.
+### Show and Tell: Road to iOS13: Dark Mode - Stephen Tolton & Kotaro Fujita
+Preparing your iOS app for Dark Mode is an interesting path. We will showcase some basic steps to make your journey easier and how it's not as scary as it might look.
 
 ## Sponsor: Twilio
 
