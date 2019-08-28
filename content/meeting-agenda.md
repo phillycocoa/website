@@ -30,13 +30,13 @@ When the doors open we kick off the meeting with our social hour. Don't skip out
 > [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
 
 ## Presentations
-### Helping Future You with Internal Technical Documentation: Audrey Troutt
+### Helping Future You with Internal Technical Documentation - Audrey Troutt
 I'd like to talk about internal technical documentation. Specifically, how to communicate technical ideas to other developers. I'll cover common diagrams like sequence diagrams, workflow diagrams, architecture diagrams, and UML/class diagrams, as well as provide guidelines for how much description vs diagrams vs API specs vs code comments you should make depending on the audience, time available, and complexity of the code being documented. My opinion is that I don't actually think Apple is a great role model for us here, but there are plenty of examples in the open source community to draw inspiration from.
 
-### Show and Tell: Color Pseudo Science in Swift: Rich Boutwell
+### Show and Tell: Color Pseudo Science in Swift - Rich Boutwell
 Rich will show off his new Mac app, Quadtone Profilers that does predictive color model for inkjet printing.
 
-### Show and Tell: Road to iOS13: Swift Package Management: Kotaro Fujita
+### Show and Tell: Road to iOS13: Swift Package Management - Kotaro Fujita
 If you ever had to deal with third party package managers like CocoaPods and Carthage, both have their pros and cons. Swift Package Manager (PM) is a first party solution that's been around for a while and now integrated with Xcode 11.
 
 What is Swift PM and why you would want to use it? What problem does it solve? How do you install and consume it? How do you make one?
