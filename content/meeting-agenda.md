@@ -28,10 +28,10 @@ This is part 1 of a 3 part show-n-tell series. We go thru the life cycle of an a
 In part 1, we go over how a basic personal need to figuring out my total dividends turned into my creation for the app, Dividend Calc. We go over the inspiration, the process and the eventual release of this app.
 
 ### Show and Tell: Making Chat Bubbles Dance - Edan Lichtenstein
-It takes 3 to tango: Time, Movement, and Opacity come together in a single cell insertion. When designers ask for special animations requiring a collection view, here's an overview of the 3 classes that move together to handle custom animations for cell insertion. Then an attempt to create tests to make sure no one changes your weeks of work in the future.
+It takes 3 to tango: Time, Movement, and Opacity come together in a single cell insertion. When designers ask for special animations requiring a collection view, here's an overview of the 3 classes that move together to handle custom animations for cell insertion. Then I'll show tests created to make sure no one changes your weeks of work in the future.
 
 ### Misconceptions about iOS Memory Management - Mohammed Faanik
-During this talk I’ll discuss different types of memory issues. I'll explain how not every memory issue is a leak and will share tips to spot memory related issues quicker. I'll also show where usage of Xcode is recommended and where it’s not.
+During this talk I’ll discuss different types of memory issues. I'll explain how not every memory issue is a leak and will share tips on how to spot memory related issues quicker. I'll also show where the usage of Xcode is recommended and where it’s not.
 
 ## Sponsor: Twilio
 
