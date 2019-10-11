@@ -22,10 +22,10 @@
         }
     },
     "book_club": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/rgqjtqyzkbvb/",
-      "date": "2019-07-16",
-      "start_time": "8:30pm",
-      "end_time": "9:30pm",
+      "meetup_url": "",
+      "date": "2019-10-22",
+      "start_time": "8:00pm",
+      "end_time": "9:00pm",
         "location": {
             "name": "Online via GoToMeeting"
         }
