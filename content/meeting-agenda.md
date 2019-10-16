@@ -25,7 +25,7 @@ We meet out of <a href="https://www.indyhall.org">Indy Hall</a>, a co-working co
 When the doors open we kick off the meeting with our social hour. Don't skip out on this - it's the perfect time to say hi to new members, hack on a side project, and pick each others' brains about problems you're running into. Bring your laptop and take advantage of our helpful community to push through that problem you just can't quite seem to Stack Overflow your way out of. The outside doors are locked by 7:00PM, so come join us for the Social Hour before the Main Meeting begins.
 
 ## Presentations
-### Show and Tell:Film is (not) dead? - Rich Boutwell
+### Show and Tell: Film is (not) dead? - Rich Boutwell
 Richard Boutwell will do a show and tell presentation of his prototype camera app, and demo writing metal kernels and a metal rendering pipeline to simulate different traditional films and color filtration for real time previews.
 
 ### Show and Tell: How to Kill An App Part 2: Always Be Selling - Kotaro Fujita
