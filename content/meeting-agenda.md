@@ -31,7 +31,7 @@ Richard Boutwell will do a show and tell presentation of his prototype camera ap
 ### Show and Tell: How to Kill An App Part 2: Always Be Selling - Kotaro Fujita
 This is part 2 of a 3 part show-n-tell series. We go thru the life cycle of an app on how you take an idea to the finish line to maintaining and growing an app to finally the death of an app. We will use my app, Dividend Calc to illustrate how I have built it, grew it, and eventually killed it.
 
-In part 2, the application is launch but what now. Not many downloads. Not much engagement. We explore the multiple ways to bring awareness to the app and its eventually steady growth.
+In part 2, the application is launched but what now? Not many downloads. Not much engagement. We explore the multiple ways to bring awareness to the app and its eventually steady growth.
 
 ### Lessons Learned in a Rearchitecture - Alex Nagl
 At CBS Interactive we just finished rearchitecting and redesign our app. During that time we had to make the large decision on which design pattern to use. We decided to keep it simple and go with MVC for a few reasons, while still gaining some of the benefits that MVVM and the other patterns like to boast about. This presentation will discuss the experiences gained and the challenges encountered.
