@@ -33,9 +33,6 @@ This is part 2 of a 3 part show-n-tell series. We go thru the life cycle of an a
 
 In part 2, the application is launched but what now? Not many downloads. Not much engagement. We explore the multiple ways to bring awareness to the app and its eventually steady growth.
 
-### Lessons Learned in a Rearchitecture - Alex Nagl
-At CBS Interactive we just finished rearchitecting and redesign our app. During that time we had to make the large decision on which design pattern to use. We decided to keep it simple and go with MVC for a few reasons, while still gaining some of the benefits that MVVM and the other patterns like to boast about. This presentation will discuss the experiences gained and the challenges encountered.
-
 ## Sponsor: Twilio
 
 > Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application. Twilio is a software and cloud-based communications platform that enables the rapid build and deploy of powerful, flexible business communications solutions.
