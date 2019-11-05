@@ -33,6 +33,9 @@ This is part 2 of a 3 part show-n-tell series. We go thru the life cycle of an a
 
 In part 2, the application is launched but what now? Not many downloads. Not much engagement. We explore the multiple ways to bring awareness to the app and its eventually steady growth.
 
+### Top 10 iPhone Photo Tips - Stephen Tolton
+Wanna make your photos more Instragramable? Wanna impress your friends with your amazing pics? Stephen shows us ways to take and process better photos on our iPhones.
+
 ## Sponsor: Twilio
 
 > Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application. Twilio is a software and cloud-based communications platform that enables the rapid build and deploy of powerful, flexible business communications solutions.
