@@ -11,8 +11,8 @@
         }
     },
     "main_meeting": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/kvsmnqyzqbqb/",
-      "date": "2019-12-12",
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/kvsmnqybccbmb/",
+      "date": "2020-01-09",
       "start_time": "6:30pm",
       "end_time": "9:00pm",
         "location": {
@@ -23,7 +23,7 @@
     },
     "book_club": {
       "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/nppmkryzqbnb/",
-      "date": "2019-12-10",
+      "date": "2020-01-07",
       "start_time": "8:00pm",
       "end_time": "9:00pm",
         "location": {
