@@ -26,11 +26,14 @@ We meet out of <a href="https://www.indyhall.org">Indy Hall</a>, a co-working co
 When the doors open we kick off the meeting with our social hour. Don't skip out on this - it's the perfect time to say hi to new members, hack on a side project, and pick each others' brains about problems you're running into. Bring your laptop and take advantage of our helpful community to push through that problem you just can't quite seem to Stack Overflow your way out of. The outside doors are locked by 7:00PM, so come join us for the Social Hour before the Main Meeting begins.
 
 ## Presentations
-### Show and Tell: Performance: A Swift UI App - Victor Germanis
-Over the break I wanted to play around with Swift UI, so I wrote an App called “Performance”. We can take a look into the Swift UI code that makes up the guts of the app, and go over my own experiences working with SwiftUI.
+### Show and Tell: FatMouth: How an app can make you a family hero - Ian Smith
+Can't find an app to do some specific task? Write your own! This is my story about developing a PhotoBooth app to win browny points with the in-laws and how I went from grandious ideas to a MVP.
 
 ### Show and Tell: Awesome SwiftUI Animations - Kotaro Fujita
 Kotaro Fujita shows us some tips and tricks on making cool animations in SwiftUI. SwiftUI unleashes the potential to making a lot of easy UI transitions for very little effect.
+
+### Show and Tell: Performance: A Swift UI App - Victor Germanis
+Over the break I wanted to play around with Swift UI, so I wrote an App called “Performance”. We can take a look into the Swift UI code that makes up the guts of the app, and go over my own experiences working with SwiftUI.
 
 ## Sponsor: Twilio
 
