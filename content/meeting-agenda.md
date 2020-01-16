@@ -1,19 +1,16 @@
 ---
 type: page
-title: January Meeting Agenda
+title: February Meeting Agenda
 ---
 
-# January Meeting Agenda
+# Ferbuary Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be **Thursday, January 9th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
+[Philly CocoaHeads][PC] always meets on the second Thursday of every month at IndyHall, located at 4th and Market (the 3rd floor of the Colonial Penn Building).
 
 [PC]:http://phillycocoa.org
-[IndyHall]:https://www.indyhall.org/
 [2nd Story Brewing Co]:http://www.2ndstorybrewing.com
 
-Please RSVP via Meetup: <http://www.meetup.com/PhillyCocoaHeads/>
-
-For folks who drive in and need parking the closest garage is the Bourse Garage on 4th between Market and Chestnut. [Website says](https://www.parkme.com/lot/85982/bourse-garage-philadelphia-pa) there is a "Evening, In After 5pm / Out By 2am" for $10.00.
+Please RSVP via Meetup <http://www.meetup.com/PhillyCocoaHeads/> so we can order the appropriate amount of pizza and hoagies for our social hour!
 
 ## Before the Meeting
 We meet out of <a href="https://www.indyhall.org">Indy Hall</a>, a co-working community in Old City. They've extended a discount to our group to come in early and work out of Indy Hall for the day. When you get there, mention CocoaHeads and you'll receive $10 off the normal drop-in rate (you'll get in for $20). Many CocoaHeads members are also Indy Hall members, so you'll see some of us around. Avoid the rush hour commute and join us!
@@ -22,21 +19,23 @@ We meet out of <a href="https://www.indyhall.org">Indy Hall</a>, a co-working co
 
 <p><img src="/images/agenda.png" width="900px"/></p>
 
-## Social Hour
+### Social Hour
 When the doors open we kick off the meeting with our social hour. Don't skip out on this - it's the perfect time to say hi to new members, hack on a side project, and pick each others' brains about problems you're running into. Bring your laptop and take advantage of our helpful community to push through that problem you just can't quite seem to Stack Overflow your way out of. The outside doors are locked by 7:00PM, so come join us for the Social Hour before the Main Meeting begins.
 
-## Presentations
-### Show and Tell: FatMouth: How an app can make you a family hero - Ian Smith
-Can't find an app to do some specific task? Write your own! This is my story about developing a PhotoBooth app to win browny points with the in-laws and how I went from grandious ideas to a MVP.
+## Formal Meeting
 
-### Show and Tell: Awesome SwiftUI Animations - Kotaro Fujita
-Kotaro Fujita shows us some tips and tricks on making cool animations in SwiftUI. SwiftUI unleashes the potential to making a lot of easy UI transitions for very little effect.
+Our meetings are a mix of formal presentations and show-and-tells. We welcome talk proposals of all skill level, and all speaker experience level.
 
-### Show and Tell: Performance: A Swift UI App - Victor Germanis
-Over the break I wanted to play around with Swift UI, so I wrote an App called “Performance”. We can take a look into the Swift UI code that makes up the guts of the app, and go over my own experiences working with SwiftUI.
+Speaking for the first time and want something with minimal pressure, or just have a cool project / CocoaPod / etc you want to share with the group quick? Consider giving a show-and-tell which usually run around 15 minutes.
+
+Get in touch with the leadership team at <leadership@phillycocoa.org> to propose something!
+
+## Post-Meeting Drinks
+
+After meeting drinks will commence at 2nd Story Brewing Co at 117 Chestnut Street.
 
 ## Sponsor: Twilio
 
 > Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application. Twilio is a software and cloud-based communications platform that enables the rapid build and deploy of powerful, flexible business communications solutions.
 
-> [Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
+[Twilio](http://www.twilio.com) continues to be a huge supporter of Philly CocoaHeads. Many members have used Twilio technology in projects to great effect. If you have any questions, our local rep is Brent Schooley <brent@twilio.com>.
