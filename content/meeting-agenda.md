@@ -26,7 +26,7 @@ We meet out of <a href="https://www.indyhall.org">Indy Hall</a>, a co-working co
 When the doors open we kick off the meeting with our social hour. Don't skip out on this - it's the perfect time to say hi to new members, hack on a side project, and pick each others' brains about problems you're running into. Bring your laptop and take advantage of our helpful community to push through that problem you just can't quite seem to Stack Overflow your way out of. The outside doors are locked by 7:00PM, so come join us for the Social Hour before the Main Meeting begins.
 
 ## Presentations
-### Programming for the first affordable handheld personal computer?: Taun Chapman
+### Programming for the first affordable handheld personal computer? - Taun Chapman
 What?
 
 * was the size of an iPhone
