@@ -28,6 +28,7 @@ When the doors open we kick off the meeting with our social hour. Don't skip out
 ## Presentations
 ### Programming for the first affordable handheld personal computer?: Taun Chapman
 What?
+
 * was the size of an iPhone
 
 * was battery powered
