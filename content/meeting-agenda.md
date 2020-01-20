@@ -28,14 +28,20 @@ When the doors open we kick off the meeting with our social hour. Don't skip out
 ## Presentations
 ### Programming for the first affordable handheld personal computer?: Taun Chapman
 What?
-Markup : Bullet list
 * was the size of an iPhone
+
 * was battery powered
+
 * had purchasable programs
+
 * was user programmable
+
 * had persistent magnetic storage for programs & user data
+
 * was released a year before the Apple II
+
 * had a retail price 1/3 an Apple II ($450)
+
 * was developed by the employer of Steve Wozniak, co-founder of Apple
 
 Answer: The Hewlett Packard HP67 handheld programmable calculator with built-in card reader
