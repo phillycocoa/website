@@ -3,7 +3,7 @@ type: page
 title: February Meeting Agenda
 ---
 
-# Ferbuary Meeting Agenda
+# February Meeting Agenda
 
 The next [Philly CocoaHeads][PC] meeting will be **Thursday, February 13th** at [IndyHall][IndyHall], located at 4th and Market (the 3rd floor of the Colonial Penn Building). After meeting drinks will commence at [2nd Story Brewing Co][2nd Story Brewing Co] at 117 Chestnut Street.
 
@@ -28,6 +28,7 @@ When the doors open we kick off the meeting with our social hour. Don't skip out
 ## Presentations
 ### Programming for the first affordable handheld personal computer?: Taun Chapman
 What?
+Markup : Bullet list
 * was the size of an iPhone
 * was battery powered
 * had purchasable programs
