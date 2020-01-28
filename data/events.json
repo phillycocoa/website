@@ -1,7 +1,7 @@
 {
     "side_project_saturday": {
-        "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/jzbnjrybccbhc/",
-        "date": "2020-01-25",
+        "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/jzbnjrybcdbdc/",
+        "date": "2020-02-29",
         "start_time": "10am",
         "end_time": "5pm",
         "location": {
@@ -22,8 +22,8 @@
         }
     },
     "book_club": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/nppmkrybccbcc/",
-      "date": "2020-01-21",
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/nppmkrybccblc/",
+      "date": "2020-01-28",
       "start_time": "8:00pm",
       "end_time": "9:00pm",
         "location": {
