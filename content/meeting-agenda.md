@@ -50,7 +50,7 @@ Answer: The Hewlett Packard HP67 handheld programmable calculator with built-in 
 ### Flutter - Zachary Russell
 Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
-Zac Russell gives us an intro into Flutter and how he is making cross platform apps with it.
+Zachary gives us an intro into Flutter and how he is making cross platform apps with it.
 
 ## Sponsor: Twilio
 
