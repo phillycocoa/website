@@ -1,11 +1,9 @@
 {{ $event := $.Site.Data.events.main_meeting }}
 
 <section class="event-info">
-  <h3>Next Main Meeting</h3>
-   <p>In-person main meetings are<br />
-     virtual. Please watch for updates<br />
-     on joining the May 14th meeting</p>
-  <!--<time datetime="{{$event.date }}">
+  <h3>(Virtual) Main Meeting</h3>
+   <!--<p>The next Main Meeting is TBD</p>-->
+  <time datetime="{{$event.date }}">
     {{ dateFormat "Monday, Jan 2, 2006" $event.date }}
   </time>
   <time>{{ $event.start_time }} to {{ $event.end_time }}</time>
@@ -14,5 +12,5 @@
   {{ $event.location.address1 }}<br>
   {{ $event.location.address2 }}</address>
   <p><a href="{{ $event.meetup_url }}">RSVP @ Meetup.com</a></p>
-  <p><a href="/meeting-agenda/">Agenda</a></p>-->
+  <p><a href="/meeting-agenda/">Agenda</a></p>
 </section>
