@@ -10,14 +10,14 @@
         }
     },
     "main_meeting": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/qjkrnrybchbsb/",
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/270547558/",
       "date": "2020-05-14",
-      "start_time": "6:30pm",
-      "end_time": "9:00pm",
+      "start_time": "7:00pm",
+      "end_time": "8:00pm",
         "location": {
-            "name": "IndyHall",
-            "address1": "399 Market Street, Suite 360",
-            "address2": "Philadelphia, PA 19106"
+            "name": "Virtual Meeting",
+            "address1": "",
+            "address2": ""
         }
     },
     "book_club": {
