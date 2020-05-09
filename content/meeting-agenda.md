@@ -5,7 +5,7 @@ title: May Meeting Agenda
 
 # May Meeting Agenda
 
-For May, [Philly CocoaHeads][PC] will meet virtually this second Thursday of the month. Join us online for a virtual social hour (bring your own pizza). We're resuming monthly meetings virtually for the time being in a more casual format, akin to the social hour that kicks off our in-person meetings. 
+For May, [Philly CocoaHeads][PC] will meet virtually, **Thursday, May 14th**. Join us online for a virtual social hour (bring your own pizza). We're resuming monthly meetings virtually for the time being in a more casual format, akin to the social hour that kicks off our in-person meetings. 
 
 We'll be meeting via Zoom (link will be on Meetup after you RSVP). Please RSVP via Meetup <http://www.meetup.com/PhillyCocoaHeads/>. 
 
