@@ -17,7 +17,6 @@ We'll be meeting via Zoom (link will be on Meetup after you RSVP). Please RSVP v
 <p><img src="/images/agenda.png" width="900px"/></p>
 
 Bring some questions if you need some office-hours, or just come and hang as we talk about the latest rumors leading up to WWDC next month.
-We'll be meeting via Zoom (link will be on Meetup after you RSVP).
 
 ## Sponsor: Twilio
 
