@@ -1,13 +1,15 @@
 ---
-date: "2019-05-23T00:12:00-04:00"
+date: "2020-06-22T00:12:00-04:00"
 draft: true
-title: "WWDC 2019 Viewing Event"
+title: "WWDC 2020 Watch Along Events"
 ---
 
-We'll be holding a local WWDC event for those of us who are not headed out west. 
+We'll be holding watch along WWDC events: 
 
-[Join us] (https://www.meetup.com/PhillyCocoaHeads/events/261332359/?rv=me2&_xtd=gatlbWFpbF9jbGlja9oAJDNjYjViNjZiLTU4MzQtNDcxMi05YWE2LTYyZmRiODMyYzU2Zg&_af=event&_af_eid=261332359) from 1:00 to 3:00 PM in the Gallery of IndyHall for a live viewing of Apple's Keynote address for WWDC, the annual Apple Developer conference. 
+[Join us in Meetup] (https://www.meetup.com/PhillyCocoaHeads/events/271341904/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDQ2NWIwMmE2LTNlNWUtNGY5Zi1hZDEwLTEzMDBmNzBjZmVjNQ) from 1:00 to 3:00 PM to watch the WWDC20 Keynote together and participate in a short discussion afterwards.
 
-Attendance to this event is free, but if you plan to come earlier or stay longer you will need to buying a day pass through Indy Hall to attend. We do have a deal for PhillyCocoa members. Mention you're here with CocoaHeads and you'll get $10 off the day drop-in rate.
+[Join us in Meetup] (https://www.meetup.com/PhillyCocoaHeads/events/271341904/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDQ2NWIwMmE2LTNlNWUtNGY5Zi1hZDEwLTEzMDBmNzBjZmVjNQ) from 5:00 to 7:00 PM t to watch the WWDC20 Platforms State of the Union together and participate in a short discussion afterwards. The State of the Union talk is the real meat of the first day of WWDC where all the juicy technical details are revealed. It's the WWDC day one highlight for many developers.
 
-Our monthly meeting will be on [Thursday, June 13th](https://www.meetup.com/PhillyCocoaHeads/events/kvsmnqyzjbrb/).
+Join our Slack to stay in touch before and after the events. If you need an invite, the process is automated, just click the link on our website: http://phillycocoa.org/slack/
+
+Our next monthly meeting will be on [Thursday, July 9th](https://www.meetup.com/PhillyCocoaHeads/events/qjkrnrybckbmb/).
