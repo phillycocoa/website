@@ -1,7 +1,7 @@
 ---
-date:	"2019-06-23T00:12:00-04:00"
+date:	"2020-06-23T00:12:00-04:00"
 draft: false	
-title: "Side Project Saturday is at the new Promptworks location"
+title: "WWDC2020 Watch Events"
 ---
 
 
