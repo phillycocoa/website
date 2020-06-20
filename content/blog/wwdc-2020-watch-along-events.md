@@ -4,7 +4,9 @@ draft: false
 title: "WWDC 2020 Watch Along Events"
 ---
 
-We'll be holding watch along WWDC events: 
+We'll be holding WWDC2020 watch along events: 
+
+# How to participate
 
 [Join us in Meetup] (https://www.meetup.com/PhillyCocoaHeads/events/271341904/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDQ2NWIwMmE2LTNlNWUtNGY5Zi1hZDEwLTEzMDBmNzBjZmVjNQ) from 1:00 to 3:00 PM on 6-22 to watch the WWDC20 Keynote together and participate in a short discussion afterwards.
 
