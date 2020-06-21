@@ -46,7 +46,7 @@ title: About
 
 The `type` helps identify how the content should be rendered and the `title` will be the title used for the `HTML` `title` tag.
 
-For blog posts there is a `date` and `draft` flag.
+For blog posts there is a `date` (should not be a future date) and `draft` flag.
 
 If you need to add images, look to the `/static/` folder. Those files will be posted to the root of the site and you can assume your image will live at: `/images/hello.png`.
 
