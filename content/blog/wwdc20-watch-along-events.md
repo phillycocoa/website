@@ -1,6 +1,6 @@
 ---
 date: "2020-06-20T00:12:00-04:00"
-draft: false
+draft: true
 title: "WWDC20 Watch Along Events"
 ---
 
