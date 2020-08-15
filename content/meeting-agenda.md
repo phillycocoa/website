@@ -1,11 +1,11 @@
 ---
 type: page
-title: August Meeting Agenda
+title: September Meeting Agenda
 ---
 
-# August Meeting Agenda
+# September Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be virtual on **Thursday, August 13th**. Join us online for a virtual social hour (bring your own pizza). We're resuming monthly meetings virtually for the time being in a more casual format, akin to the social hour that kicks off our in-person meetings. 
+The next [Philly CocoaHeads][PC] meeting will be virtual on **Thursday, September 10th**. Join us online for a virtual social hour (bring your own pizza). We're resuming monthly meetings virtually for the time being in a more casual format, akin to the social hour that kicks off our in-person meetings. 
 
 [PC]:http://phillycocoa.org
 
