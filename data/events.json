@@ -1,7 +1,7 @@
 {
     "side_project_saturday": {
-        "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/273808804/",
-        "date": "2020-10-24",
+        "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/273810248/",
+        "date": "2020-11-21",
         "start_time": "10am",
         "end_time": "5pm",
         "location": {
@@ -10,8 +10,8 @@
         }
     },
     "main_meeting": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/273728177/",
-      "date": "2020-11-12",
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/273728179/",
+      "date": "2020-12-10",
       "start_time": "7:00pm",
       "end_time": "8:00pm",
         "location": {
