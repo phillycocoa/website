@@ -1,11 +1,11 @@
 ---
 type: page
-title: December Meeting Agenda
+title: January Meeting Agenda
 ---
 
 # December Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be virtual on **Thursday, December 10th**. Join us online for a virtual social hour (bring your own pizza). We're resuming monthly meetings virtually for the time being in a more casual format, akin to the social hour that kicks off our in-person meetings. 
+The next [Philly CocoaHeads][PC] meeting will be virtual on **Thursday, January 14th**. Join us online for a virtual social hour (bring your own pizza). We're resuming monthly meetings virtually for the time being in a more casual format, akin to the social hour that kicks off our in-person meetings. 
 
 [PC]:http://phillycocoa.org
 
