@@ -1,5 +1,5 @@
 ---
-date: "2020-06-07T00:12:00-04:00"
+date: "2021-06-07T00:12:00-04:00"
 draft: false
 title: "WWDC21 Watch Along Events"
 ---
