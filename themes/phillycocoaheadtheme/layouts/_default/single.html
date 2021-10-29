@@ -11,6 +11,8 @@
 
       {{ if eq .Type "blog" }}
         {{ partial "blog.html" . }}
+      {{ else if eq .Type "podcast" }}
+        {{ partial "podcast.html" . }}
       {{ else if eq .Type "page" }}
         {{ partial "page.html" . }}
       {{ else }}
