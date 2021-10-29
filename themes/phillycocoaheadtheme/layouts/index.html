@@ -26,14 +26,6 @@
             {{ end }}
             </ol>
 
-            <h1>Podcast Updates</h1>
-            <ol class="blogupdates">
-            {{ $pag := .Paginate (where .Data.Pages "Type" "podcast") }}
-            {{ range $pag.Pages }}
-              <li><strong>{{ .Date.Format "1/2" }}</strong> <a href="{{ .Permalink }}">{{ .Title }}</a></li>
-            {{ end }}
-            </ol>
-
             {{ partial "whatsnew.html" . }}
 
         </aside>
