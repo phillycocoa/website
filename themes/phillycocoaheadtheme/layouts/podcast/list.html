@@ -14,7 +14,7 @@
       {{ .Content }}
 
       <div class="posts-list">
-            {{ $pag := .Paginate (where .Data.Pages "Type" "blog") }}
+            {{ $pag := .Paginate (where .Data.Pages "Type" "podcast") }}
             {{ range $pag.Pages }}
             <article class="post-preview">
               <a href="{{ .Permalink }}">
@@ -33,7 +33,7 @@
 
               <div class="post-entry">
                 {{ .Summary }}
-          	  <a href="{{ .Permalink }}" class="post-read-more">[Read&nbsp;More]</a>
+          	  <a href="{{ .Permalink }}" class="post-read-more">[More&nbsp;Info]</a>
               </div>
 
              </article>
@@ -44,12 +44,12 @@
           <ul class="pager main-pager">
             {{ if .Paginator.HasPrev }}
             <li class="previous">
-              <a href="{{ .URL }}page/{{ .Paginator.Prev.PageNumber }}">&larr; Newer Posts</a>
+              <a href="{{ .URL }}page/{{ .Paginator.Prev.PageNumber }}">&larr; Newer Episodes</a>
             </li>
             {{ end }}
             {{ if .Paginator.HasNext }}
             <li class="next">
-              <a href="{{ .URL }}page/{{ .Paginator.Next.PageNumber }}">Older Posts &rarr;</a>
+              <a href="{{ .URL }}page/{{ .Paginator.Next.PageNumber }}">Older Episodes &rarr;</a>
             </li>
             {{ end }}
           </ul>
