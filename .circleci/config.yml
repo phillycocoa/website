@@ -13,7 +13,7 @@ jobs:
           command: HUGO_ENV=production hugo --theme=phillycocoaheadtheme -v -d $HUGO_BUILD_DIR
       - run:
           name: "Install PIP"
-          command: sudo apt-get update; sudo apt-get install -y python python-pip python-dev
+          command: sudo apt-get update; sudo apt-get install -y python py-pip python-dev
       - run:
           name: "Install AWS"
           command: sudo pip install awscli; aws --version
