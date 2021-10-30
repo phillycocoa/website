@@ -10,7 +10,7 @@ jobs:
       - checkout
       - run:
           name: "Install Hugo"
-          command: apt-get install hugo
+          command: snap install hugo --channel=extended
       - run:
           name: "Run Hugo"
           command: HUGO_ENV=production hugo --theme=phillycocoaheadtheme -v -d $HUGO_BUILD_DIR
