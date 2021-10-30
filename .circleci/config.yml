@@ -16,7 +16,7 @@ jobs:
           command: sudo apt-get update
       - run:
           name: "Install AWS"
-          command: sudo apt-get awscli; aws --version
+          command: sudo apt-get install awscli; aws --version
       - run:
           name: "Deploy to S3 if tests pass and branch is Master"
           command: aws s3 sync $HUGO_BUILD_DIR s3://phillycocoa.org
