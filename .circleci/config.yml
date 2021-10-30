@@ -4,10 +4,13 @@ jobs:
     environment:
       HUGO_BUILD_DIR: ~/project/public
     docker:
-      - image: klakegg/hugo:0.88.0
+      - image: ubuntu:latest
     working_directory: ~/project
     steps:
       - checkout
+      - install:
+          name: "Install Hugo"
+          command: apt-get install hugo
       - run:
           name: "Run Hugo"
           command: HUGO_ENV=production hugo --theme=phillycocoaheadtheme -v -d $HUGO_BUILD_DIR
