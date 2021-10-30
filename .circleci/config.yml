@@ -12,11 +12,11 @@ jobs:
           name: "Run Hugo"
           command: HUGO_ENV=production hugo --theme=phillycocoaheadtheme -v -d $HUGO_BUILD_DIR
       - run:
-          name: "Install PIP"
-          command: sudo apt-get update; sudo apt-get install -y python py-pip python-dev
+          name: "Update apt-get"
+          command: sudo apt-get update
       - run:
           name: "Install AWS"
-          command: sudo pip install awscli; aws --version
+          command: sudo apt-get awscli; aws --version
       - run:
           name: "Deploy to S3 if tests pass and branch is Master"
           command: aws s3 sync $HUGO_BUILD_DIR s3://phillycocoa.org
