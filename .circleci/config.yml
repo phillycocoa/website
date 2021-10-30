@@ -4,7 +4,7 @@ jobs:
     environment:
       HUGO_BUILD_DIR: ~/project/public
     docker:
-      - image: felicianotech/docker-hugo:0.40
+      - image: klakegg/hugo:0.88.0
     working_directory: ~/project
     steps:
       - checkout
