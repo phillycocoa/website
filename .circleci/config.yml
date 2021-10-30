@@ -4,13 +4,10 @@ jobs:
     environment:
       HUGO_BUILD_DIR: ~/project/public
     docker:
-      - image: ubuntu:latest
+      - image: cibuilds/hugo:0.88.1
     working_directory: ~/project
     steps:
       - checkout
-      - run:
-          name: "Install Hugo"
-          command: snap install hugo --channel=extended
       - run:
           name: "Run Hugo"
           command: HUGO_ENV=production hugo --theme=phillycocoaheadtheme -v -d $HUGO_BUILD_DIR
