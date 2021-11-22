@@ -5,7 +5,7 @@ title: "#S1E4: Welcome to My Objective-C TED Talk"
 ---
 
 {{< rawhtml >}}
-
+<iframe src="https://anchor.fm/side-project-spotlight/embed/episodes/S1E4-Welcome-to-My-Objective-C-TED-Talk-e1agm1i" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 {{< /rawhtml >}}
 
 Sprint 3 is over and Kotaro has made progress on the UI with a complete app skeleton now linked together, but is still working on the core swipe animation. Meanwhile, Steve found notifications a little harder to setup in a SwiftUI environment than expected, but got the basic plumbing working when he wasn't editing the podcast. Aaron is the Sprint MVP as he updated the data managers so that Kanji can be retrieved from the database with ease and user stats saved on demand.  All together, this means we are getting close to a working app! Plus, a discussion comparing Objective-C and Swift and the struggle to switch mental modes when you are learning new things.
