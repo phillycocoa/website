@@ -15,8 +15,8 @@ It's release day! Kanji Love is in the App Store! In this season finale episode,
 
 ## Topics Discussed:
 - Story behind the app name: Kanji Love
-	- cocoalove.org
-       	- [Fracture](https://fractureme.com) Prints FTW!
+	- [cocoalove.org](https://cocoalove.org)
+    - [Fracture](https://fractureme.com) Prints FTW!
 - Sprint Retrospective
 	- Kotaro: Website & Metadata
      	- Aaron: Minor Bug Fixes
