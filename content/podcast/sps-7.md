@@ -1,7 +1,7 @@
 ---
 date: "2022-01-03T00:12:00-04:00"
 draft: false 
-title: "#S1E7: Kanji Love"
+title: "#7: Kanji Love"
 ---
 
 {{< rawhtml >}}

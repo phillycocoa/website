@@ -1,7 +1,7 @@
 ---
 date: "2021-10-09T00:12:00-04:00"
 draft: false
-title: "#S1E1: Kanji Flash Card App Kickoff"
+title: "#1: Kanji Flash Card App Kickoff"
 ---
 
 {{< rawhtml >}}

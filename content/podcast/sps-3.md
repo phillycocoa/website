@@ -1,7 +1,7 @@
 ---
 date: "2021-11-08T00:12:00-04:00"
 draft: false
-title: "#S1E3: We Have Data!"
+title: "#3: We Have Data!"
 ---
 
 {{< rawhtml >}}

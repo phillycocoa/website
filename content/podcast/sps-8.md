@@ -1,7 +1,7 @@
 ---
 date: "2022-01-17T00:12:00-04:00"
 draft: false 
-title: "#S2E1: Into the Metaverse"
+title: "#8: Into the Metaverse"
 ---
 
 {{< rawhtml >}}

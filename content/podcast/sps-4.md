@@ -1,7 +1,7 @@
 ---
 date: "2021-11-22T00:12:00-04:00"
 draft: false 
-title: "#S1E4: Welcome to My Objective-C TED Talk"
+title: "#4: Welcome to My Objective-C TED Talk"
 ---
 
 {{< rawhtml >}}
