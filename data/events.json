@@ -1,17 +1,17 @@
 {
     "side_project_saturday": {
-        "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/282594277",
-        "date": "2022-01-29",
+        "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/283874593/",
+        "date": "2022-02-26",
         "start_time": "10am",
-        "end_time": "5pm",
+        "end_time": "2pm",
         "location": {
             "name": "Virtual event",
             "address1": "Slack #side-project-virtual"
         }
     },
     "main_meeting": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/283191128",
-      "date": "2022-02-10",
+      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/hwnjjsydcfbnb/",
+      "date": "2022-03-10",
       "start_time": "7:00pm",
       "end_time": "8:00pm",
         "location": {
