@@ -1,11 +1,11 @@
 ---
 date: "2022-05-23T00:12:00-04:00"
 draft: false 
-title: "#17: Surveying the Solution Space"
+title: "#17: Fingerpicking Good"
 ---
 
 {{< rawhtml >}}
-<iframe src="https://anchor.fm/side-project-spotlight/embed/episodes/17-Surveying-the-Solution-Space-e1irte9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/side-project-spotlight/embed/episodes/17-Fingerpicking-Good-e1irte9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 {{< /rawhtml >}}
 
 This week, we return to our Todo App project. Coding has stalled because we didn't have a specific enough idea of exactly WHAT the app is supposed to be all about. Problem definition is hard and this week Steve presents his thoughts on how to move forward based on his research into some existing digital and paper habit tracking systems. Then we sketch some specific app feature requirements where we coalesce around the idea of tracking something akin to "epics," provide positive reinforcement via widgets, and support Siri Intents for use in the Shortcuts app.
