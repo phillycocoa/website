@@ -8,7 +8,7 @@ title: "#24: Jira Is Trying to Kill You!"
 <iframe src="https://anchor.fm/side-project-spotlight/embed/episodes/24-Jira-Is-Trying-to-Kill-You-e1n1pmb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 {{< /rawhtml >}}
 
-his week the trio review the PickleJarTodo journey so far before discussing the trials and tribulations of macOS betas, bringing back tasteful skeuomorphism in our app, adding playfulness via animation, and why copy is important. Aaron describes his solution to our NavigationSplitView dilemma, Steve discusses some Core Data architecture patterns, and Old Man Kotaro Story Time and a project management tools discussion result in some entertaining hot takes and rants.
+This week the trio review the PickleJarTodo journey so far before discussing the trials and tribulations of macOS betas, bringing back tasteful skeuomorphism in our app, adding playfulness via animation, and why copy is important. Aaron describes his solution to our NavigationSplitView dilemma, Steve discusses some Core Data architecture patterns, and Old Man Kotaro Story Time and a project management tools discussion result in some entertaining hot takes and rants.
 
 ## Topics Discussed:
 - PickleJarTodo Update
