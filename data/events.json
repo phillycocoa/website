@@ -1,13 +1,12 @@
 {
     "side_project_saturday": {
-        "meetup_url": "https://www.meetup.com/phillycocoaheads/events/287732197/",
-        "date": "2022-08-20",
-        "start_time": "11:30am",
-        "end_time": "4pm",
+        "meetup_url": "https://www.meetup.com/phillycocoaheads/events/288613704/",
+        "date": "2022-09-24",
+        "start_time": "10:00am",
+        "end_time": "2pm",
         "location": {
-            "name": "Human Robot Jenkintown",
-            "address1": "208-210 York Rd",
-            "address2": "Jenkintown, PA"
+            "name": "Virtual event",
+            "address1": "Slack #side-project-virtual"
         }
     },
     "main_meeting": {
