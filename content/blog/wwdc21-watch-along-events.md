@@ -1,17 +1,14 @@
 ---
-date: "2022-05-24T00:12:00-04:00"
+date: "2023-03-04T00:12:00-04:00"
 draft: false
-title: "WWDC22 Watch Along Events"
+title: "State of the Mobile Union"
 ---
 
-We'll be holding WWDC22 watch along events on June 6: 
+We'll be holding a Google Developer Group/ PhillyCocoa cross meetup on March 22nd: 
 
 # How to participate
 
-[Join us in Meetup] (https://www.meetup.com/PhillyCocoaHeads/events/286060038/) from 1:00 to 3:00 PM to watch the WWDC22 Keynote along with fellow Philly CocoaHeads! Watch the Apple stream here: (https://www.apple.com/apple-events/)
+[Join us in Meetup] (https://www.meetup.com/phillycocoaheads/events/291961296/) or IRL at the [Comcast Technology Center] (https://comcastcentercampus.com/campus/), located at 1800 Arch St · Philadelphia, on March 22nd, 6pm-8pm for 5 lightning talks discussing a wide set of topics around modern mobile design and developer.
 
-[Join us in Meetup] (https://www.meetup.com/PhillyCocoaHeads/events/286060048/) from 4:00 to 7:00 PM to watch the WWDC22 State of the Union together and participate in a short discussion afterwards. The State of the Union talk is the real meat of the first day of WWDC where all the juicy technical details are revealed. It's the WWDC day one highlight for many developers.
 
-Join our Slack to stay in touch before and after the events. If you need an invite, the process is automated, just click the link on our website: http://phillycocoa.org/slack/
-
-Our next monthly (virtual) meeting will be on [Thursday, June 9th](https://www.meetup.com/PhillyCocoaHeads/events/hwnjjsydcjbmb/).
+[RSVP in Meetup] (https://www.meetup.com/phillycocoaheads/events/291961296/) by March 22 at 5:00PM only if you plan to join us at the physical location. We have a limited space. We will provide a waiting list once we exceed 50 RSVPs.
