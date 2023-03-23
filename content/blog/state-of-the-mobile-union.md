@@ -1,6 +1,6 @@
 ---
 date: "2023-03-04T00:12:00-04:00"
-draft: false
+draft: true
 title: "State of the Mobile Union"
 ---
 
