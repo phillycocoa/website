@@ -1,17 +1,18 @@
 {
     "side_project_saturday": {
-        "meetup_url": "https://www.meetup.com/phillycocoaheads/events/292385232/",
-        "date": "2023-03-25",
+        "meetup_url": "https://www.meetup.com/phillycocoaheads/events/294303848/",
+        "date": "2023-06-24",
         "start_time": "10:00am",
         "end_time": "2pm",
         "location": {
-            "name": "Virtual event",
-            "address1": "Slack #side-project-virtual"
+            "name": "IRL at Willow Grove Giant",
+            "address1": "315 York Rd, Willow Grove, PA",
+            "address2": "Slack #side-project-virtual"
         }
     },
     "main_meeting": {
-      "meetup_url": "https://www.meetup.com/phillycocoaheads/events/qfszxsyfcgbrb/",
-      "date": "2023-04-13",
+      "meetup_url": "https://www.meetup.com/phillycocoaheads/events/qfszxsyfckbrb/",
+      "date": "2023-07-13",
       "start_time": "7:00pm",
       "end_time": "8:00pm",
         "location": {
