@@ -8,7 +8,7 @@ title: "#56: Diving Into Dependencies"
 <iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/56-diving-into-dependencies/id1589612693?i=1000637387340&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228); --noir-inline-background-color: #20272b;" data-noir-inline-background-color=""></iframe>
 {{< /rawhtml >}}
 
-The trio convene for the penultimate episode of 2023 to discuss the latest presentations by OpenAI and Github and the way generative "AI" tools may be enabling the dream of a "universal" UI for computing (for both end-users and developers) that is more natural and contextual than ever before. Stay until the very end for a short after show on the strange, but super useful, ContentUnavailableView. As always, check the show notes for all the links!
+In this final episode of 2023, the trio dive into the topic of dependencies! What kinds are there? How do you manage them? What are some examples? This episode is jam packed with great advice and a ton of useful links (see below!) to help you think about the tradeoffs of different kinds of dependencies as well as concrete advice on how to write cleaner code that your future self will appreciate. Have a great holiday season and a happy new year as you embark on your own developer journey into 2024! The trio will return in January!
 
 ## Topics Discussed:
 - Introductions
