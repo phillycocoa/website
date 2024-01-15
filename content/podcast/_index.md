@@ -8,8 +8,8 @@ title: Side Project Spotlight Podcast
 
 PhillyCocoa Presents Side Project Spotlight is a podcast for app builders, documenting the process of producing real apps for the Apple App Store.
 
-[Subscribe](https://anchor.fm/side-project-spotlight) in your podcast client of choice!
+<h2>This episode list is no longer updated. Please visit our [podcast website](https://podcast.phillycocoa.org) to access our audio back catalog and subscribe on a variety of services.</h2>
 
-## Episodes
+## Archived Episodes
 
 <!-- GENERATED LIST OF EPISODES -->
