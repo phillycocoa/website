@@ -1,11 +1,11 @@
 ---
 type: page
-title: September Meeting Agenda
+title: June Meeting Agenda
 ---
 
-# September Meeting Agenda
+# June Meeting Agenda
 
-The next [Philly CocoaHeads][PC] meeting will be virtual on **Thursday, September 14th**. Join us online for a virtual social hour, from 7:00-8:00PM (bring your own pizza). We're resuming monthly meetings virtually for the time being in a more casual format, akin to the social hour that kicks off our in-person meetings. 
+The next [Philly CocoaHeads][PC] meeting will be virtual on **Thursday, June 13th**. Join us online for a virtual social hour, from 7:00-8:00PM (bring your own pizza). We're resuming monthly meetings virtually for the time being in a more casual format, akin to the social hour that kicks off our in-person meetings. 
 
 [PC]:http://phillycocoa.org
 
@@ -16,7 +16,11 @@ We'll be meeting via Zoom (link will be on Meetup after you RSVP). Please RSVP v
 
 <p><img src="/images/agenda.png" width="900px"/></p>
 
-Bring some questions if you need some office-hours, or just come and hang.
+Topics on deck:
+
+WWDC news
+Beta demos and discussion
+App/Code show-n-tells
 
 ## Sponsor: Twilio
 
