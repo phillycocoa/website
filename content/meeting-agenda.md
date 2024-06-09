@@ -18,9 +18,7 @@ We'll be meeting via Zoom (link will be on Meetup after you RSVP). Please RSVP v
 
 Topics on deck:
 
-WWDC news
-Beta demos and discussion
-App/Code show-n-tells
+WWDC discussion
 
 ## Sponsor: Twilio
 
