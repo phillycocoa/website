@@ -44,12 +44,12 @@
           <ul class="pager main-pager">
             {{ if .Paginator.HasPrev }}
             <li class="previous">
-              <a href="{{ .URL }}page/{{ .Paginator.Prev.PageNumber }}">&larr; Newer Episodes</a>
+              <a href="{{ .Paginator.Prev.URL }}">&larr; Newer Episodes</a>
             </li>
             {{ end }}
             {{ if .Paginator.HasNext }}
             <li class="next">
-              <a href="{{ .URL }}page/{{ .Paginator.Next.PageNumber }}">Older Episodes &rarr;</a>
+              <a href="{{ .Paginator.Next.URL }}">Older Episodes &rarr;</a>
             </li>
             {{ end }}
           </ul>
