@@ -1,6 +1,2 @@
 <h1>What’s New</h1>
-<ol class="whatsnew">
-  {{ range hugo.Data.whatsnew }}
-    <li><strong>{{ dateFormat "1/2" .date }}</strong> {{ .details | markdownify}}</li>
-  {{ end }}
-</ol>
+<p class="empty-state">Nothing new posted yet.</p>
