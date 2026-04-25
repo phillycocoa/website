@@ -11,7 +11,7 @@ You can download the Slack client for [Mac](https://slack.com/downloads/osx),  [
 
 To get an invite to the Philly CocoaHead Slack use this form:
 
-[Philly CocoaHead Slack] (https://join.slack.com/t/phillycocoa/shared_invite/enQtNDk1NzQ2MjExMDI1LWI1OTk2NDFkOGZhYzM0NzkwYTY5ZDg2ZjU5ZTY5ZDBiZjUwNWIzNDBhNDM1ZTMxNzRkOTg0ZGNjMTllYWY4YjE)
+[Philly CocoaHead Slack](https://join.slack.com/t/phillycocoa/shared_invite/enQtNDk1NzQ2MjExMDI1LWI1OTk2NDFkOGZhYzM0NzkwYTY5ZDg2ZjU5ZTY5ZDBiZjUwNWIzNDBhNDM1ZTMxNzRkOTg0ZGNjMTllYWY4YjE)
 
 
 If you have any other questions or concerns, [let us know](/about).
