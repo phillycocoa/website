@@ -132,6 +132,14 @@ a:active {
   margin-bottom: .75em;
 }
 
+.empty-state {
+  color: #666;
+  font-style: italic;
+  background-color: #eee;
+  border-left: 3px solid #f16a23;
+  padding: .75em 1em;
+}
+
 /* Blog */
 
 .post-preview h1,

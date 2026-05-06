@@ -1,7 +1,7 @@
-{{ $event := $.Site.Data.events.main_meeting }}
+{{ $event := hugo.Data.events.main_meeting }}
 
 <section class="event-info">
-  <h3>(Virtual) Main Meeting</h3>
+  <h3>Next Main Meeting</h3>
    <!--<p>The next Main Meeting is TBD</p>-->
   <time datetime="{{$event.date }}">
     {{ dateFormat "Monday, Jan 2, 2006" $event.date }}
@@ -11,6 +11,5 @@
   <address>{{ $event.location.name }}<br>
   {{ $event.location.address1 }}<br>
   {{ $event.location.address2 }}</address>
-  <p><a href="{{ $event.meetup_url }}">RSVP @ Meetup.com</a></p>
-  <p><a href="/meeting-agenda/">Agenda</a></p>
+  <p><a href="{{ $event.meetup_url }}">RSVP @ Luma</a></p>
 </section>

@@ -1,3 +1,7 @@
-baseurl = "http://phillycocoa.org/"
+baseURL = "https://phillycocoa.org/"
 title = "Philly CocoaHeads"
 languageCode = "en-us"
+theme = "phillycocoaheadtheme"
+
+[markup.goldmark.renderer]
+unsafe = true

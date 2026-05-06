@@ -1,7 +1,7 @@
 <div id="navigation-banner">
     <header>
         <section id="logo-branding">
-            <a href="/"><img src="{{ .Site.BaseURL }}images/Philly_CocoaHeads_Logo.png" alt="Philly CocoaHead Logo"></a>
+            <a href="/"><img src="{{ "images/Philly_CocoaHeads_Logo.png" | relURL }}" alt="Philly CocoaHead Logo"></a>
         </section>
         <nav id="main-navigation">
           {{ partial "sitelinks.html" . }}

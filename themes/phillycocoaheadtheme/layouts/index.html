@@ -15,18 +15,19 @@
 
         <aside id="aside">
 
-            {{ partial "sponsors.html" . }}
-            <p><a href="/sponsorship">Learn more about sponsorship.</a></p>
+            <section>
+                {{ partial "sponsors.html" . }}
+                <p><a href="/sponsorship">Learn more about sponsorship.</a></p>
+            </section>
 
-            <h1>Blog Updates</h1>
-            <ol class="blogupdates">
-            {{ $pag := .Paginate (where .Data.Pages "Type" "blog") }}
-            {{ range $pag.Pages }}
-              <li><strong>{{ .Date.Format "1/2" }}</strong> <a href="{{ .Permalink }}">{{ .Title }}</a></li>
-            {{ end }}
-            </ol>
+            <section>
+                <h1>Blog Updates</h1>
+                <p class="empty-state">No recent blog updates.</p>
+            </section>
 
-            {{ partial "whatsnew.html" . }}
+            <section>
+                {{ partial "whatsnew.html" . }}
+            </section>
 
         </aside>
 

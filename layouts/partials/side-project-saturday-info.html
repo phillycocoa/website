@@ -1,4 +1,4 @@
-{{ $event := $.Site.Data.events.side_project_saturday }}
+{{ $event := hugo.Data.events.side_project_saturday }}
 
 <section class="event-info">
   <h3>Next Side Project Saturday</h3>
@@ -10,5 +10,5 @@
   <address>{{ $event.location.name }}<br>
   {{ $event.location.address1 }}<br>
   {{ $event.location.address2 }}</address>
-  <p><a href="{{ $event.meetup_url }}">RSVP info</a></p>
+  <p><a href="{{ $event.meetup_url }}">RSVP @ Luma</a></p>
 </section>
