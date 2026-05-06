@@ -2,9 +2,7 @@
 
 > The following site is still in development.
 
-This repo is the source for the Philly CocoaHeads website, hosted at: <phillycocoa.org>. The site is built using the static site generator [Hugo](https://gohugo.io/), hosted on [Amazon S3](https://aws.amazon.com/s3/) and deployed using [CircleCI](http://circleci.com).
-
-Current development staging is at: <http://phillycocoa.org.s3-website-us-east-1.amazonaws.com/>
+This repo is the source for the Philly CocoaHeads website, hosted at: <https://phillycocoa.org>. The site is built using the static site generator [Hugo](https://gohugo.io/) and is intended to be deployed on [Cloudflare Pages](https://pages.cloudflare.com/) from GitHub.
 
 ## How to Contribute
 
@@ -12,7 +10,27 @@ If you spot a typo, other bug or want to work towards an existing issue, please 
 
 If you have a new idea, we'd ask you make a GitHub issue so the idea can be discussed before serious work is started.
 
-Once changes are merged into `master` our CI system will auto deploy the site.
+Once changes are merged into `master`, Cloudflare Pages should automatically deploy the production site.
+
+## Deployment
+
+The production deployment target is Cloudflare Pages, not the legacy S3 website.
+
+Recommended Cloudflare Pages settings:
+
+- Production branch: `master`
+- Build command: `hugo`
+- Build output directory: `public`
+- Environment variable: `HUGO_VERSION` set to the Hugo version you want Pages to use
+
+Custom domain configuration should point:
+
+- `phillycocoa.org` to the Cloudflare Pages project
+- `www.phillycocoa.org` to a redirect or alias for `phillycocoa.org`
+- `podcast.phillycocoa.org` to `domains.transistor.fm`
+- Mail records to Hover's hosted email service
+
+After the Cloudflare cutover, the old S3 website DNS records and legacy CircleCI/S3 deployment pipeline should remain disabled.
 
 ## Working with Hugo
 
@@ -49,4 +67,3 @@ The `type` helps identify how the content should be rendered and the `title` wil
 For blog posts there is a `date` (should not be a future date) and `draft` flag.
 
 If you need to add images, look to the `/static/` folder. Those files will be posted to the root of the site and you can assume your image will live at: `/images/hello.png`.
-
