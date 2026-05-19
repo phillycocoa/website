@@ -2,14 +2,17 @@
 
 <section class="event-info">
   <h3>Next Main Meeting</h3>
-   <!--<p>The next Main Meeting is TBD</p>-->
-  <time datetime="{{$event.date }}">
-    {{ dateFormat "Monday, Jan 2, 2006" $event.date }}
-  </time>
-  <time>{{ $event.start_time }} to {{ $event.end_time }}</time>
+  {{ if $event.date }}
+    <time datetime="{{$event.date }}">
+      {{ dateFormat "Monday, Jan 2, 2006" $event.date }}
+    </time>
+    <time>{{ $event.start_time }} to {{ $event.end_time }}</time>
 
-  <address>{{ $event.location.name }}<br>
-  {{ $event.location.address1 }}<br>
-  {{ $event.location.address2 }}</address>
-  <p><a href="{{ $event.meetup_url }}">RSVP @ Luma</a></p>
+    <address>{{ $event.location.name }}<br>
+    {{ $event.location.address1 }}<br>
+    {{ $event.location.address2 }}</address>
+    <p><a href="{{ $event.meetup_url }}">RSVP @ Luma</a></p>
+  {{ else }}
+    <p>TBA</p>
+  {{ end }}
 </section>

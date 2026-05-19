@@ -1,5 +1,13 @@
+{{ $event := hugo.Data.events.main_meeting }}
+
+{{ if $event.date }}
 <p>Our next Main Meeting is <strong>Beyond the Simulator: Perspectives on Modern App Development</strong>, hosted by Vanguard at 2300 Chestnut St in Philadelphia. We will have talks from fellow developers and designers on topics ranging from UI design to AI integration, including Metal shaders and using Claude Code with Xcode.</p>
 
 <p>The evening starts with meet-and-greeting time, followed by introductions, community news, short talks, and cleanup. Capacity is limited, so please RSVP if you plan to attend in person. A Teams link will also be available for watching the presentations live.</p>
 
 <p>If you have any questions or would like to present at the meeting, please get in touch with the leadership team, <a href="mailto:leadership@phillycocoa.org">leadership@phillycocoa.org</a>.</p>
+{{ else }}
+<p>Our main meeting is held once a month, usually on the second Thursday of the month. The meeting starts with social time and help time, followed by introductions, community news, and presentations. These talks can range from short member demos to longer featured sessions. All are welcome to join us.</p>
+
+<p>If you are interested in presenting or helping organize a future meeting, please get in touch with the leadership team, <a href="mailto:leadership@phillycocoa.org">leadership@phillycocoa.org</a>.</p>
+{{ end }}
