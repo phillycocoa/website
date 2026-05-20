@@ -94,6 +94,12 @@ a:active {
   clear: both;
 }
 
+#event-details .event-calendar-intro {
+  margin: -.5em 0 2em 0;
+  font-size: 95%;
+  color: #666;
+}
+
 #event-details .event-info {
   background-color: #eee;
   padding: 1em;
