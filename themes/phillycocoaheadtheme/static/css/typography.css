@@ -94,6 +94,12 @@ a:active {
   clear: both;
 }
 
+#event-details .event-calendar-intro {
+  margin: -.5em 0 2em 0;
+  font-size: 95%;
+  color: #666;
+}
+
 #event-details .event-info {
   background-color: #eee;
   padding: 1em;
@@ -116,6 +122,17 @@ a:active {
 
 #event-details .event-info address {
   margin-top: 1em;
+}
+
+#event-details .event-calendar-footer {
+  clear: both;
+  margin-top: 2.5em;
+  font-size: 95%;
+  color: #666;
+}
+
+#event-details .event-calendar-footer p {
+  margin: 0;
 }
 
 /* What's New */
