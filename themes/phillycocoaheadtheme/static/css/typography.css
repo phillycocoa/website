@@ -118,6 +118,17 @@ a:active {
   margin-top: 1em;
 }
 
+#event-details .event-calendar-footer {
+  clear: both;
+  margin-top: 2.5em;
+  font-size: 95%;
+  color: #666;
+}
+
+#event-details .event-calendar-footer p {
+  margin: 0;
+}
+
 /* What's New */
 
 .whatsnew,
