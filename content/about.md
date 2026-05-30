@@ -61,7 +61,7 @@ We'd like to also thank the following people for their past efforts helping run 
 * Tom Piarulli, [@tompark_IO](https://twitter.com/tompark_IO)
 * Mike Zornek, [Website](http://mikezornek.com)
 * Michael Mayer, [@jm2software](http://twitter.com/jm2software)
-* Curtis Herbert, [@parrots](http://twitter.com/parrots)
+* Curtis Herbert, [Website](https://curtisherbert.com)
 * Matthew Toto
 * Gillian Reynolds-Titko, [LinkedIn](https://www.linkedin.com/in/gillianreynoldstitko/)
 
@@ -71,6 +71,5 @@ Our thanks to the following open source projects for giving us the tools to help
 
 * [Hugo](https://gohugo.io/), a static site generator written in [Go](https://golang.org/).
 * [GitHub](https://github.com/) for source control hosting.
-* [CircleCI](https://circleci.com/) for deployment.
-* [Amazon S3](https://aws.amazon.com/s3/) for web hosting.
+* [Cloudflare Pages](https://pages.cloudflare.com/) for deployment and web hosting.
 * [Hover](https://www.hover.com/) for domain name management.
