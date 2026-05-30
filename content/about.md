@@ -26,56 +26,28 @@ Our main event calendar is also on [Meetup.com](https://www.meetup.com/PhillyCoc
 <ol class="leadership">
 
 <li>
-  <img src="https://www.gravatar.com/avatar/9b54e5324785eb939bcc8f15c724baf9?s=150" alt="Curtis Herbert Profile Photo">
-  <ol class="info">
-  <li class="name">Curtis Herbert</li>
-  <li class="twitter"><a href="http://twitter.com/parrots">@parrots</a></li>
-  <li class="responsibilities">(Board Member / Main Meetings /<br> Videos)</li>
-  </ol>
-</li>
-
-
-
-<li>
-  <img src="https://www.gravatar.com/avatar/b05e7cfb32dbd2c3ed159a1ac1e15165?s=150" alt="Stephen Tolton Profile Photo">
-  <ol class="info">
-  <li class="name">Stephen Tolton</li>
-  <li class="twitter"><a href="http://twitter.com/stolton">@stolton</a></li>
-  <li class="responsibilities">(Board Member / Side Project <br>Saturdays / Podcast)</li>
-  </ol>
-</li>
-
-<li>
-  <img src="https://www.gravatar.com/avatar/7aef4a1b4f67f1db1ff5ed28a7ac81ed?s=150" alt="Kotaro Fujita Profile Photo">
+  <img src="https://www.gravatar.com/avatar/7aef4a1b4f67f1db1ff5ed28a7ac81ed?s=150" width="150" height="150" alt="Kotaro Fujita Profile Photo">
   <ol class="info">
   <li class="name">Kotaro Fujita</li>
   <li class="twitter"><a href="http://twitter.com/wild37">@wild37</a></li>
-  <li class="responsibilities">(Board Member / Main Meeting Greeter /<br> Twitter / Podcast)</li>
+  <li class="responsibilities">(Main Meetings /<br> Twitter / Podcast)</li>
   </ol>
 </li>
 
 <li>
-  <img src="{{ .Site.BaseURL }}images/matt_profile_pic_sized.jpg" alt="Matthew Toto">
+  <img src="https://www.gravatar.com/avatar/8d85b5ebc7056d992ac013713173473c?s=150" width="150" height="150" alt="Stephen Tolton Profile Photo">
   <ol class="info">
-  <li class="name">Matthew Toto</li>
-  <li class="responsibilities">(Book Club)</li>
+  <li class="name">Stephen Tolton</li>
+  <li class="twitter"><a href="http://twitter.com/stolton">@stolton</a></li>
+  <li class="responsibilities">(Side Project <br>Saturdays / Podcast)</li>
   </ol>
 </li>
 
 <li>
-  <img src="https://www.gravatar.com/avatar/42267223014b3d0ec4f033ffe7cbda92?s=150" alt="Matt Smollinger Profile Photo">
+  <img src="https://www.gravatar.com/avatar/42267223014b3d0ec4f033ffe7cbda92?s=150" width="150" height="150" alt="Matt Smollinger Profile Photo">
   <ol class="info">
   <li class="name">Matt Smollinger</li>
   <li class="twitter"><a href="http://twitter.com/mattsmollinger">@mattsmollinger</a></li>
-  <li class="responsibilities">(Website / Future Projects)</li>
-  </ol>
-</li>
-
-<li>
-  <img src="https://www.gravatar.com/avatar/41d38d758bfcbc0d546189dbc1d2fee9?s=150" alt="Gillian Reynolds-Titko Profile Photo">
-  <ol class="info">
-  <li class="name">Gillian Reynolds-Titko</li>
-  <li class="twitter"><a href="https://www.linkedin.com/in/gillianreynoldstitko/">LinkedIn</a></li>
   <li class="responsibilities">(Website / Future Projects)</li>
   </ol>
 </li>
@@ -89,6 +61,9 @@ We'd like to also thank the following people for their past efforts helping run 
 * Tom Piarulli, [@tompark_IO](https://twitter.com/tompark_IO)
 * Mike Zornek, [Website](http://mikezornek.com)
 * Michael Mayer, [@jm2software](http://twitter.com/jm2software)
+* Curtis Herbert, [@parrots](http://twitter.com/parrots)
+* Matthew Toto
+* Gillian Reynolds-Titko, [LinkedIn](https://www.linkedin.com/in/gillianreynoldstitko/)
 
 ## Blog Tools
 
