@@ -133,27 +133,42 @@ header ol li {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
+  padding-left: 0;
 }
 
-.leadership li {
+.leadership > li {
   margin-bottom: 1em;
   display: flex;
   width: 450px;
 }
 
-.leadership img {
+.leadership > li > img {
+  display: block;
+  width: 150px !important;
+  height: 150px !important;
+  min-width: 150px;
+  max-width: 150px;
+  min-height: 150px;
+  max-height: 150px;
+  flex: 0 0 150px;
   margin-right: 1em;
   border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
 }
 
 .leadership .info {
-  display: inline;
+  display: block;
+  list-style: none;
   margin: 0;
   padding: 0;
 }
 
 .leadership .info li {
+  display: block;
+  list-style: none;
   margin-bottom: 0;
+  width: auto;
 }
 
 .leadership .info li.name {
