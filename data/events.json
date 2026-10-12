@@ -1,33 +1,48 @@
 {
     "side_project_saturday": {
-        "meetup_url": "https://luma.com/yhilb1bx",
-        "date": "2026-09-26",
+        "meetup_url": "https://luma.com/fmbtg302",
+        "date": "2026-10-31",
         "start_time": "10:00am",
         "end_time": "2:00pm",
         "location": {
             "name": "IRL at Willow Grove GIANT Community Center",
-            "address1": "315 York Rd, Willow Grove, PA",
-            "address2": "Slack #side-project-virtual"
+            "address1": "315 N York Rd, Willow Grove, PA 19090",
+            "address2": "Virtual check-in: Slack #side-project-saturday"
         }
     },
     "main_meeting": {
-      "meetup_url": "https://luma.com/i00ll61z",
-      "date": "",
-      "start_time": "5:45pm",
-      "end_time": "8:00pm",
+        "meetup_url": "https://luma.com/uvaenn4m",
+        "date": "2026-10-15",
+        "start_time": "7:00pm",
+        "end_time": "9:00pm",
         "location": {
-            "name": "Vanguard",
-            "address1": "2300 Chestnut St, Philadelphia, PA 19103",
+            "name": "Online via Zoom",
+            "address1": "Register on Luma for meeting details",
             "address2": ""
         }
     },
     "book_club": {
-      "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/nppmkrybcdbpb/",
-      "date": "",
-      "start_time": "8:00pm",
-      "end_time": "9:00pm",
+        "meetup_url": "https://www.meetup.com/PhillyCocoaHeads/events/nppmkrybcdbpb/",
+        "date": "",
+        "start_time": "8:00pm",
+        "end_time": "9:00pm",
         "location": {
             "name": "Online via GoToMeeting"
         }
-    }
+    },
+    "special_events": [
+        {
+            "title": "Beyond the Simulator: Perspectives on Modern App Development",
+            "meetup_url": "https://luma.com/3e80ogfl",
+            "date": "2026-11-12",
+            "start_time": "5:45pm",
+            "end_time": "8:00pm",
+            "location": {
+                "name": "Vanguard",
+                "address1": "2300 Chestnut St, Philadelphia, PA 19103",
+                "address2": ""
+            },
+            "description": "Join PhillyCocoa for an in-person evening hosted by Vanguard, with talks by fellow developers and designers on topics from UI design to AI integration. The talk lineup is to be announced. All skill levels are welcome.\n\nThe evening starts with social time at 5:45pm, followed by introductions, community news, short talks, and closing remarks. In-person capacity is limited to 30 people, so please RSVP on Luma to claim your spot. A Teams link is to be announced; check the event listing for updates."
+        }
+    ]
 }

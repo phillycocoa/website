@@ -67,3 +67,13 @@ The `type` helps identify how the content should be rendered and the `title` wil
 For blog posts there is a `date` (should not be a future date) and `draft` flag.
 
 If you need to add images, look to the `/static/` folder. Those files will be posted to the root of the site and you can assume your image will live at: `/images/hello.png`.
+
+## Updating events
+
+Event details live in `data/events.json`. To add a special event, append an object to
+`special_events` with `title`, `meetup_url`, `date` (YYYY-MM-DD), `start_time`,
+`end_time`, `location` (`name`, `address1`, `address2`), and `description`.
+The description supports Markdown, including paragraphs separated by blank lines.
+Each entry uses the same event-info layout as the monthly meeting on the homepage
+and Events page. Set `special_events` to `[]` (or omit it) when there are no special
+events; no special-event heading or section will render.
