@@ -15,6 +15,14 @@
         {{ partial "side-project-saturday-description.html" . }}
     </section>
 
+    {{ range hugo.Data.events.special_events }}
+    <section>
+        <h2>Special Event</h2>
+        {{ partial "special-event-info.html" . }}
+        {{ .description | markdownify }}
+    </section>
+    {{ end }}
+
     <section>
         <h2>Philly CocoaHeads Book Club</h2>
         {{ partial "book-club-info.html" . }}
